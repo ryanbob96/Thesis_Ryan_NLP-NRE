@@ -1,0 +1,19 @@
+.p {
+    font-family: Montserrat;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  .model-3 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .text-1 {
+    text-align: center;
+  }
+
+  .text-2 {
+    text-decoration: underline;
+  }
