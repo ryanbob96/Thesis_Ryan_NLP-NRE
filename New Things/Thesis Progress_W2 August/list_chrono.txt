@@ -1,0 +1,176 @@
+Precambrium
+Hadean
+Archean
+Eoarchean
+Paleoarchean
+Mesoarchean
+Neoarchean
+Proterozoic
+Paleoproterozoic
+Siderian
+Rhyacian
+Orosirian
+Satherian
+Mesoproterozoic
+Calymmian
+Ectasian
+Stenian
+Neoproterozoic
+Tonian
+Cryogenian
+Ediacaran
+Phanerozoic
+Paleozoic
+Cambrian
+Terreneuvian
+Fortunian
+Cambrian Stage 2
+Cambrian Series 2
+Cambrian Stage 3
+Cambrian Stage 4
+Cambrian Series 3
+Cambrian Stage 5
+Drumian
+Guzhangian
+Furongian
+Paibian
+Jingshanian
+Stage 10
+Ordovician
+Lower Ordovician
+Tremadocian
+Floian
+Middle Ordovician
+Dapingian
+Darriwilian
+Upper Ordovician
+Sandbian
+Katian
+Hirnantian
+Silurian
+Llandovery
+Rhuddanian
+Aeronian
+Telychian
+Wenlock
+Sheinwoodian
+Homerian
+Ludlow
+Gorstian
+Ludfordian
+Pridoli
+Devonian
+Lower Devonian
+Lochkovian
+Pragian
+Emsian
+Middle Devonian
+Eifelian
+Givetian
+Upper Devonian
+Frasnian
+Famennian
+Carboniferous
+Mississippian
+Lower Mississippian
+Tournaisian
+Middle Mississippian
+Visean
+Upper Mississippian
+Serpukhovian
+Pennsylvanian
+Lower Pennsylvanian
+Bashkirian
+Middle Pennsylvanian
+Moscovian
+Upper Pennsylvanian
+Kasimovian
+Gzhelian
+Permian
+Cisuralian
+Asselian
+Sakmarian
+Artinskian
+Kungurian
+Guadalupian
+Roadian
+Wordian
+Capitanian
+Lopingian
+Wuchiapingian
+Changhsingian
+Mesozoic
+Triassic
+Lower Triassic
+Induan
+Olenekian
+Middle Triassic
+Anisian
+Ladinian
+Upper Triassic
+Carnian
+Norian
+Rhaetian
+Jurassic
+Lower Jurassic
+Hettangian
+Sinemurian
+Pliensbachian
+Toarcian
+Middle Jurassic
+Alenian
+Bajocian
+Bathonian
+Callovian
+Upper Jurassic
+Oxfordian
+Kimmeridgian
+Tithonian
+Cretaceous
+Lower Cretaceous
+Berriasian
+Valanginian
+Hauterivian
+Barremian
+Aptian
+Albian
+Upper Cretaceous
+Cenomanian
+Turonian
+Coniacian
+Santonian
+Campanian
+Maastrichtian
+Cenozoic
+Paleogene
+Paleocene
+Danian
+Selandian
+Thanetian
+Eocene
+Ypresian
+Lutetian
+Bartonian
+Priabonian
+Oligocene
+Rupelian
+Chattian
+Neogene
+Miocene
+Aquitanian
+Burdigalian
+Langhian
+Serravallian
+Tortonian
+Messinian
+Pliocene
+Zanclean
+Piacenzian
+Quaternary
+Pleistocene
+Gelasian 
+Calabrian 
+Middle Pleistocene
+Upper Pleistocene
+Holocene
+nan

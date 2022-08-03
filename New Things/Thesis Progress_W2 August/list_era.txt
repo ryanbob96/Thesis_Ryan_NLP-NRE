@@ -1,0 +1,6 @@
+Hadean
+Archean
+Proterozoic
+Paleozoic
+Mesozoic
+Cenozoic
