@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ex_block</title>
+    <style>
+      .upper {
+        font-size: 50px;
+      }
+      .search-pickup,
+      .search-destination {
+        width: 450px;
+        background-color: azure;
+        border-radius: 1px;
+        font-size: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        display: block;
+      }
+      .but-req,
+      .but-sche {
+        color: white;
+        font-size: 25px;
+        width: 250px;
+        background-color: rgb(87, 87, 87);
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        display: inline-block;
+      }
+
+      .but-req:hover,
+      .but-sche:hover {
+        background-color: black;
+      }
+    </style>
+  </head>
+  <body>
+    <p class="upper">Request a ride now</p>
+    <p>
+      <input
+        class="search-pickup"
+        type="text"
+        placeholder="Enter pickup location"
+      />
+    </p>
+    <p>
+      <input
+        class="search-destination"
+        type="text"
+        placeholder="Enter Destination"
+      />
+    </p>
+    <p>
+      <button class="but-req">Request Now</button>
+      <button class="but-sche">Schedule for later</button>
+    </p>
+  </body>
+</html>

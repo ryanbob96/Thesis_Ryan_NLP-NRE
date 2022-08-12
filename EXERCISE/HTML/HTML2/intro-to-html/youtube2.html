@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Youtube_Dummy</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,100&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      p {
+        font-family: Roboto, Arial;
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+      .thumbnail-row {
+        width: 300px;
+        /* height: 300px; */
+        /* object-fit: cover;
+        object-position: right;
+        border-width: 2px;
+        border-style: solid;
+        border-color: red; */
+        display: block;
+        margin-bottom: 12px;
+      }
+
+      .search-bar {
+        font-size: 20px;
+        width: 300px;
+        display: block;
+      }
+
+      .video-preview {
+        width: 300px;
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 15px;
+      }
+
+      .channel-pict {
+        display: inline-block;
+        width: 50px;
+        height: 50px;
+        vertical-align: top;
+      }
+
+      .video-info {
+        display: inline-block;
+        width: 200px;
+      }
+
+      .video-title {
+        margin-top: 0;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 20px;
+        margin-bottom: 12px;
+      }
+
+      .profpic {
+        width: 100%;
+        border-radius: 100px;
+      }
+
+      .video-author,
+      .video-stats {
+        font-size: 12px;
+        color: grey;
+      }
+
+      .video-author {
+        margin-bottom: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <input class="search-bar" type="text" placeholder="Search" />
+    <!-- <input type="checkbox" /> -->
+
+    <div class="video-preview">
+      <div>
+        <img class="thumbnail-row" src="../thumbnails/1.jpg" alt="" />
+      </div>
+      <div>
+        <div class="channel-pict">
+          <img class="profpic" src="../profpic/image832.png" alt="" />
+        </div>
+        <div class="video-info">
+          <p class="video-title">
+            Talking With Ryan in Raja Ampat, the wonder from Papua Indonesias
+          </p>
+          <p class="video-author">Ryan Bobby Andika</p>
+          <p class="video-stats">3.4M views &#183; 6 months ago</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="video-preview">
+      <div>
+        <img class="thumbnail-row" src="../thumbnails/2.jpg" alt="" />
+      </div>
+      <div>
+        <div class="channel-pict">
+          <img
+            class="profpic"
+            src="../profpic/RWTH Aachen_Ryan Bobby Andika.jpg"
+            alt=""
+          />
+        </div>
+        <div class="video-info">
+          <p class="video-title">Talking With Ryan in Raja Ampat, We trust</p>
+          <p class="video-author">Ryan Doddy</p>
+          <p class="video-stats">10M views &#183; 6 months ago</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

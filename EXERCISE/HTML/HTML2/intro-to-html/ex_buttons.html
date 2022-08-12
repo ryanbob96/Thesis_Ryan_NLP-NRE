@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Button Exercise 1</title>
+
+    <style>
+      .anc-amazon {
+        color: rgb(104, 156, 156);
+        transition: color 0.35s;
+      }
+
+      .anc-amazon:hover {
+        color: rgb(228, 228, 10);
+      }
+
+      .but-addcart {
+        background-color: yellow;
+        border-radius: 20px;
+        border-color: transparent;
+        font-size: 12px;
+        width: 100px;
+        height: 30px;
+        margin-right: 5px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: background-color 0.35s;
+      }
+
+      .but-addcart:active {
+        opacity: 0.3;
+        transition: opacity 0.3s;
+      }
+
+      .but-buy {
+        background-color: orange;
+        border-radius: 20px;
+        border-color: transparent;
+        font-size: 12px;
+        width: 100px;
+        height: 30px;
+        margin-right: 5px;
+        font-weight: bold;
+        cursor: pointer;
+      }
+
+      .tex-shoes {
+        font-weight: bold;
+      }
+
+      .tex-detail {
+        font-weight: bold;
+        color: green;
+      }
+
+      .tex-free {
+        color: black;
+      }
+    </style>
+  </head>
+
+  <body>
+    <p>
+      <a class="anc-amazon" href="https://www.amazon.com/" target="_blank"
+        >Back to Amazon</a
+      >
+    </p>
+    <p class="tex-shoes">Nike Black Running Shoes</p>
+    <p class="tex-detail">$39 - in stock.</p>
+    <p class="tex-free">Free delivery tomorrow.</p>
+    <button class="but-addcart">Add to Cart</button>
+    <button class="but-buy">Buy Now</button>
+  </body>
+</html>
