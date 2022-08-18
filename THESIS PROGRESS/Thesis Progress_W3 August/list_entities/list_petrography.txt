@@ -1,0 +1,1847 @@
+plutonic field description
+very quartz rich plutonic
+quartz rich granitic plutonic
+quartz rich plutonic
+quartz bearing to foid bearing plutonic
+foid rich plutonic
+foid syenitic plutonic
+foid dioritic plutonic
+foid gabbrodic plutonic
+very foid rich plutonic foidolite
+ultra mafic plutonic
+alkali feldspar granite
+quartz alkali feldspar syenite
+alkali feldspar syenite
+pyroxene hornblende gabbro
+pyroxene hornblende gabbronorite
+pyroxene hornblende norite
+foid bearing alkali feldspar syenite
+foid bearing syenite
+foid bearing monzonite
+foid bearing monzodiorite
+foid bearing monzogabbro
+foid bearing diorite
+foid bearing gabbro
+foid bearing anorthosite
+foid syenite eg. nepheline syenite
+pyroxene hornblende peridotite
+olivine hornblende pyroxenite
+plagioclase bearing pyroxenite
+plagioclase bearing hornblende pyroxenite
+olivine pyroxene hornblendite
+plagioclase bearing hornblendite
+plagioclase bearing pyroxene hornblendite
+ultramafic melilitic plutonic
+olivine pyroxene melilitolite
+pyroxene olivine melililolite
+quartz rich volcanic
+quartz to foid bearing volcanic
+olivine basaltic volcanic
+alkali basaltic volcanic
+foid rich volcanic
+very foid rich volcanic
+volcanic  normativ
+alkali feldspar rhyolite
+quartz alkali feldspar trachyte
+alkali feldspar trachyte
+foid bearing alkali feldspar trachyte
+foid bearing trachyte
+foid bearing latite
+alkali basalt amphibole bearing
+leuco alkali basalt
+basanite analcim rich
+basanite amphibole bearing
+melilithite bearing ultramafic
+sio oversaturated volcanic
+comenditic rhyolite comendite
+pantelleritic rhyolite pantellerite
+high k dacite
+medium k dacite
+low k dacite
+high k andesite
+medium k andesite
+low k andesite
+high k basaltic andesite
+medium k basaltic andesite
+low k basaltic andesite
+sio saturated volcanic
+sio saturated or slightly undersaturated volcanic
+high alumina basalt
+alkali olivine basalt
+sio undersaturated volcanic
+high mg volcanics
+alkali basaltic volcaniclast
+fine grained ash tuff
+coarse grained ash tuff
+crystal ash tuff
+lapilli ash tuff
+bomb ash tuff
+block ash tuff
+lapilli bomb tuff
+ash bomb tuff
+lapilli block tuff
+ash block tuff
+lapilli tuff breccia
+ash tuff breccia
+air fall deposit consolidated
+ash flow deposit consolidated
+ignimbrite unwelded consolidated
+surge deposit consolidated
+rhyolitic ash tuff
+fine grained ash tuff rhyolitic
+coarse grained ash tuff rhyolitic
+rhyolitic crystal ash tuff
+rhyolitic lapilli ash tuff
+rhyolitic bomb ash tuff
+rhyolitic block ash tuff
+rhyolitic lapilli tuff
+rhyolitic ash lapilli tuff
+rhyolitic bomb lapilli tuff
+rhyolitic block lapilli tuff
+rhyolitic bomb tuff
+rhyolitic lapilli bomb tuff
+rhyolitic ash bomb tuff
+pyroclastoc breccia rhyolitic
+rhyolitic block tuff
+rhyolitic lapilli block tuff
+rhyolitic ash block tuff
+rhyolitic tuff breccia
+rhyolitic lapilli tuff breccia
+rhyolitic ash tuff breccia
+rhyolitic air fall deposit consolidated
+rhyolitic ash flow deposit consolidated
+rhyolitic ignimbrite consolidated
+rhyolitic ignimbrite welded
+rhyolitic ignimbrite unwelded consolidated
+rhyolitic surge deposit
+dacitic ash tuff
+fine grained ash tuff dacitic
+coarse grained ash tuff dacitic
+dacitic crystal ash tuff
+dacitic lapilli ash tuff
+dacitic bomb ash tuff
+dacitic block ash tuff
+dacitic lapilli tuff
+dacitic ash lapilli tuff
+dacitic bomb lapilli tuff
+dacitic block lapilli tuff
+dacitic bomb tuff
+dacitic lapilli bomb tuff
+dacitic ash bomb tuff
+pyroclastic breccia dacitic
+dacitic block tuff
+dacitic lapilli block tuff
+dacitic ash block tuff
+dacitic tuff breccia
+dacitic lapilli tuff breccia
+dacitic ash tuff breccia
+dacitic air fall deposit consolidated
+dacitic ash flow deposit consolidated
+dacitic ignimbrite consolidated
+dacitic ignimbrite welded
+dacitic ignimbrite unwelded consolidated
+dacitic surge deposit consolidated
+trachytic ash tuff
+fine grained trachytic ash tuff
+coarse grained trachytic ash tuff
+trachytic crystal ash tuff
+trachytic lapilli ash tuff
+trachytic bomb ash tuff
+trachytic block ash tuff
+trachytic lapilli tuff
+trachytic ash lapilli tuff
+trachytic bomb lapilli tuff
+trachytic block lapilli tuff
+trachytic bomb tuff
+trachytic lapilli bomb tuff
+trachytic ash bomb tuff
+pyroclastic breccia trachytic
+trachytic block tuff
+trachytic lapilli block tuff
+trachytic ash block tuff
+trachytic tuff breccia
+trachytic lapilli tuff breccia
+trachytic ash tuff breccia
+trachytic air fall deposit consolidated
+trachytic ash flow deposit consolidated
+trachytic ignimbrite consolidated
+trachytic ignimbrite welded
+trachytic ignimbrite unwelded consolidated
+trachytic surge deposit consolidated
+latitic ash tuff
+fine grained latitic ash tuff
+coarse  grained latitic ash tuff
+latitic crystal ash tuff
+latitic lapilli ash tuff
+latitic bomb ash tuff
+latitic block ash tuff
+latitic lapilli tuff
+latitic ash lapilli tuff
+latitic bomb lapilli tuff
+latitic block lapilli tuff
+latitic bomb tuff
+latitic lapilli bomb tuff
+latitic ash bomb tuff
+pyroclastic breccia latitic
+latitic block tuff
+latitic lapilli block tuff
+latitic ash block tuff
+latitic tuff breccia
+latitic lapilli tuff breccia
+latitic ash tuff breccia
+latitic air flow deposit consolidated
+latitic ash flow deposit consolidated
+latitic ignimbrite consolidated
+latitic ignimbrite welded
+latitic ignimbrite unwelded consolidated
+latitic surge deposit consolidated
+andesitic ash tuff
+fine grained andesitic ash tuff
+coarse grained andesitic ash tuff
+andesitic crystal ash tuff
+andesitic lapilli ash tuff
+andesitic bomb ash tuff
+andesitic block ash tuff
+andesitic lapilli tuff
+andesitic ash lapilli tuff
+andesitic bomb lapilli tuff
+andesitic block lapilli tuff
+andesitic bomb tuff
+andesitic lapilli bomb tuff
+andesitic ash bomb tuff
+pyroclastic breccia andesitic
+andesitic block tuff
+andesitic lapilli block tuff
+andesitic ash block tuff
+andesitic tuff breccia
+andesitic lapilli tuff breccia
+andesitic ash tuff breccia
+andesitic air flow deposit consolidated
+andesitic ash flow deposit consolidated
+andesitic ignimbrite consolidated
+andesitic ignimbrite welded
+andesitic ignimbrite unwelded consolidated
+andesitic surge deposit consolidated
+basaltic ash tuff
+fine grained ash tuff basaltic
+coarse grained ah tuff basaltic
+basaltic crystal ash tuff
+basaltic lapilli ash tuff
+basaltic bomb ash tuff
+basaltic block ash tuff
+basaltic lapilli tuff
+basaltic crystal lapilli tuff
+basaltic ash lapilli tuff
+basaltic bomb lapilli tuff
+basaltic block lapilli tuff
+basaltic bomb tuff
+basaltic lapilli bomb tuff
+basaltic ash bomb tuff
+pyroclastic breccia consolidated
+basaltic block tuff
+basaltic lapilli block tuff
+basaltic ash block tuff
+basaltic tuff breccia
+basaltic lapilli tuff breccia
+basaltic ash tuff breccia
+basaltic air fall deposit consolidated
+basaltic ash flow deposit consolidated
+basaltic ignimbrite consolidated
+basaltic surge deposit consolidated
+phonolitic ash tuff
+fine grained ash tuff phonolitic
+coarse grained ash tuff phonolitic
+phonolitic crystal ash tuff
+phonolitic lapilli ash tuff
+phonolitic bomb ash tuff
+phonolitic block ash tuff
+phonolitic lapilli tuff
+phonlitic ash lapilli tuff
+phonolitic bomb lapilli tuff
+phonolitic block lapilli tuff
+phonolitic bomb tuff
+phonolitic lapilli block tuff
+phonolitic ash block tuff
+pyroclastic breccia phonolitic
+phonolitic block tuff
+phonolitic tuff breccia
+phonolitic lapilli tuff breccia
+phonolitic ash tuff breccia
+phonolitic air fall deposit consolidated
+phonolitic ash flow deposit consolidated
+phonolitic ignimbrite consolidated
+phonolitic ignimbrite welded
+phonolitic ignimbrite unwelded consolidated
+phonolitic surge deposit consolidated
+basanitic ash tuff
+fine  grained ash tuff basanitic
+coarse grained ash tuff basanitic
+basanitic crystall ash tuff
+basanitic lapilli ash tuff
+basanitic bomb ash tuff
+basanitic block ash tuff
+basanitic lapilli tuff
+basanitic ash lapilli tuff
+basanitic bomb lapilli tuff
+basanitic block lapilli tuff
+basanitic bomb tuff
+basanitic lapilli bomb tuff
+basanitic ash bomb tuff
+pyroclastic breccia basanitic
+basanitic block tuff
+basanitic lapilli block tuff
+basanitic ash block tuff
+basanitic tuff breccia
+basanitic lapilli tuff breccia
+basanitic ash tuff breccia
+basanitic air fall deposit consolidated
+basanitic ash flow deposit consolidated
+basanitic ignimbrite consolidated
+basanitic ignimbrite unwelded consolidated
+basanitic surhe deposit consolidated
+volcanic and volcaniclastic structureless
+quartz rich dyke
+quartz bearing to foid bearing dyke
+foid rich dyke
+pegmatite granitoidic composition
+quartz rich aplite
+pegmatite of nephelinitic composition
+quartz bearing to quartz free aplite
+leucite nepheline dolerite
+ultrabasic alkali lamprophyr
+lamprophyric carbonatic dyke
+hydrothermal gangue mineralization
+quartz rich gangue mineralization
+milky quartz mineral aggregate
+capped quartz mineral aggregate
+pseudomorphosic quartz mineral aggregate
+carbonate rich gangue mineralization
+calcite mineral aggregate
+feldspar rich gangue mineralization
+feldspar mineral aggregate
+baryte rich gangue mineralization
+baryte mineral aggregate
+sulfide rich gangue mineralization
+metamorphic after educt
+garnet meta aplite
+garnet turmaline meta aplite
+alkalibasaltic meta dolerite
+tholeitic meta dolerite
+peralkaline meta rhyolite
+meta basalt sorted
+meta alkali basalt
+tholeitic meta basalt
+rhyolitic meta volcaniclastic
+rhyodacitic meta volcaniclastic
+dacitic meta volcaniclastic
+trachytic meta volcaniclastic
+andesitic meta volcaniclastic
+basaltic meta volcaniclastic
+alkali basaltic meta volcaniclastic
+tholeitic meta volcaniclastic
+phonolitic meta volcaniclastic
+basanitic meta volcaniclastic
+rhyolitic meta pyroclastic
+rhyodacitic meta pyroclastic
+dacitic meta pyroclastic
+trachytic meta pyroclastic
+andesitic meta pyroclastic
+basaltic meta pyroclastic
+alkali basaltic meta pyroclastic
+basanitic meta pyroclastic
+tuffitic meta pelite
+tuffitic meta psammite
+tuffitic meta conglomerate
+autoclastic meta volcaniclastic
+autoclastic hydroclastic meta volcaniclastic
+pillow fragment breccia
+volcaniclastic meta sedimentary
+metamorphic after chemistry fabric mineral content
+carbonate silicate marble silica marble
+metamorphic carbonate silicate
+carbonate silicate coarse
+quartz rich metamorphic
+garnet albite phyllite
+albite mica schist
+andalusite mica schist
+apatite mica schist
+biotite plagioclase mica schist
+chlorite mica schist
+garnet mica schist
+graphite mica schist
+muscovite chlorite mica schist
+muscovite biotite mica schist two mica schist
+sericite mica schist
+staurolite biotite muscovite mica schist
+epidote hornblende plagioclase gneiss
+biotite cordierit gneiss
+biotite garnet gneiss
+biotite plagioclase gneiss
+biotite muscovite gneiss
+biotite sillimanite gneiss
+disthene staurolite gneiss
+disthene sillimanite gneiss
+garnet biotite gneiss
+garnet cordierit sillimanite gneiss
+garnet disthene gneiss
+garnet disthene sillimanite gneiss
+garnet disthene staurolite gneiss
+garnet plagioclase gneis
+hornblende biotite gneiss
+muscovite biotite gneiss
+muscovite biotite garnet gneiss
+muscovite garnet gneiss
+quartz biotite plagioclase gneiss
+staurolite garnet plagioclase gneiss
+charnockite metamorphic affinity
+acidic to intermediate hornfels
+biotite hornblende plagioclase hornfels
+coround hercynite hornfels
+biotite pyroxene amphibolite
+carbonate silicate amphibolite
+chlorite actinolite schist
+ultra mafic hornfels
+slate slaty metamudstone
+sandstone pelite alternation
+sandstone dominated sandstone pelite alternation
+pelite dominated sandstone pelite alternation
+pelite gypsum alternation
+pelite dominated pelite gypsum alternation
+gypsum dominated pelite gypsum alternation
+fine quartz arenite
+medium quartz arenite
+coarse quartz arenite
+subfeldspatic arenite  feldspatic sandstone
+fine subfeldspatic arenite
+medium subfeldspatic arenite
+coarse subfeldspatic arenite
+fine feldspatic arenite
+medium feldspatic arenite
+coarse feldspatic arenite
+fine lithic arenite
+medium lithic arenite
+coarse lithic arenite
+fine quartz wacke
+medium quartz wacke
+coarse quartz wacke
+fine feldspethic wacke
+medium feldspethic wacke
+coarse feldspethic wacke
+fine lithic wacke
+medium lithic wacke
+coarse lithic wacke
+fine pebble granule
+medium to coarse pebble
+very coarse pebble
+fine grus breccia
+medium grus breccia
+coarse grud breccia
+block debris breccia
+carbonatic siliciclastic sedimentary
+limestone marl alteration
+limestone dominated limestone marl alteration
+marl dominated limestone marl alteration
+pelite marl alteration
+pelite dominated pelite marl alteration
+marol dominated pelite marl alteration
+carbonate bearing siliciclastic
+carbonate bearing claystone
+carbonate bearing mudstone
+carbonate bearing sandstone
+carbonate bearing fine sandstone
+carbonate bearing medium sandstone
+carbonate bearing coarse sandstone
+carbonate bearing conglomerate
+carbonate bearing breccia
+dolomite bearing siliciclastic
+dolomite bearing claystone
+dolomite bearing mudstone
+dolomite bearing sandstone
+dolomite bearing fine sandstone
+dolomite bearing medium sandstone
+dolomite bearing coarse sandstone
+dolomite bearing conglomerate
+dolomite bearing breccia
+carbonatic fine sandstone
+carbonatic medium sandstone
+carbonatic coarse sandstone
+dolomitic fine sandstone
+dolomitic medium sandstone
+dolomitic coarse sandstone
+fine sandy limestone
+medium sandy limestone
+coarse sandy limestone
+fine sandy dolomite
+medium sandy dolomite
+coarse sandy dolomite
+clay lime composite
+clastic sedimentary carbonate
+fine grained arenite
+medium grained arenite
+coarse grained arenite
+fine grained dolomitic arenite
+medium grained dolomitic arenite
+coarse grained dolomitic arenite
+fine grained calcitic arenite
+medium grained calcitic arenite
+coarse grained calcitic arenite
+carbonate of dunham  and embry & klovan
+mud supported limestone
+grain supported limestones
+carbonate rock of folk
+intraclastic micrite limestone
+ooid bearing micrite limestone
+fossile bearing micrite limestone
+peloid bearing micrite limestone
+intraclastic sparite limestone
+ooid bearing sparite limestone
+fossile bearing sparite limestone
+peloid bearing sparite limestone
+fresh water carbonate
+chemicalbiogene non carbonate sedimentary
+non carbonate salts
+po sium salt
+silica introducted quartzite
+radiolarite silica schist
+lydite alaun silica schist
+carbonatic radiolarite silica carbonate
+ortho lignite brown lignite
+earthy ortho lignite
+slaty ortho lignite
+meta lignite black lignite
+dull meta lignite
+bright meta lignite pitch coal
+gas flaming coal
+sapropolic bituminous coal
+red iron ore
+brown iron ore
+spar iron ore
+pyrite ore deposit
+non ferrous metal ore
+lead zinc ore
+fine grained ash layering
+coarse grained ash layering
+crystal ash layering
+lapillie ash layering
+block ash layering
+bomb ash layering
+ash lapilli layering
+block lapilli layering
+bomb lapilli layering
+lapilli bomb layering
+ash bomb layering
+lapilli block layering
+ash block layering
+air fall deposit
+ash flow deposit
+pebbel bearing clay
+grus bearing clay
+debris bearing clay
+strongly humus clay
+gravel bearing mud
+pebble bearing mud
+grus bearing mud
+debris bearing mud
+strong humus mud
+gravel bearing silt
+pebble bearing silt
+grus bearing silt
+debris bearing silt
+strong humus silt
+gravel bearing sand
+pebble bearing sand
+grus bearing sand
+debris bearing sand
+strong humus sand
+blocky debris pebble
+clastic carbonatic sediment
+carbonate bearing sediment
+carbonate bearing clay sediment
+carbonate bearing clay
+carbonate bearing silty clay
+carbonate bearing muddy clay
+carbonate gravel bearing clay
+carbonate bearing gravely clay
+carbonate pebble bearing clay
+carbonate bearing pebbly clay
+carbonate grus bearing clay
+carbonate bearing grus clay
+carbonate debris bearing clay
+carbonate bearing detrital clay
+carbonate bearing strongly humus clay
+carbonate bearing mud sediment
+carbonate bearing mud
+carbonate bearing clayey mud
+carbonate bearing sandy mud
+carbonate gravel bearing mud
+carbonate bearing gravelly mud
+carbonate pebble bearing mud
+carbonate bearing pebbly mud
+carbonate grus bearing mud
+carbonate bearing grus mud
+carbonate debris bearing mud
+carbonate bearing detrital mud
+carbonate bearing stronly humus mud
+carbonate bearing silt sediment
+carbonate bearing silt
+carbonate bearing clayey silt
+carbonate bearing muddy silt
+carbonate bearing sandy silt
+carbonate gravel bearing silt
+carbonate bearing gravelly silt
+carbonate pebble bearing silt
+carbonate bearing pebbly silt
+carbonate grus bearing silt
+carbonate bearing grus silt
+carbonate debris bearing silt
+carbonate bearing detrital silt
+carbonate bearing stronly humus silt
+carbonate bearing sand sediment
+carbonate bearing sand
+carbonate bearing silty sand
+carbonate bearing muddy sand
+carbonate gravel bearing sand
+carbonate bearing gravelly sand
+carbonate pebble bearing sand
+carbonate bearing pebbly sand
+carbonate grus bearing sand
+carbonate bearing grus sand
+carbonate debris bearing sand
+carbonate bearing detrital sand
+carbonate bearing stronly humus sand
+carbonate bearing gravel sediment
+carbonate bearing gravel
+carbonate bearing grus gravel
+carbonate bearing detrital gravel
+carbonate bearing pebbly gravel
+carbonate bearing sandy gravel
+carbonate bearing silty gravel
+carbonate bearing clayey gravel
+carbonate bearing muddy gravel
+carbonate bearing pebble sediment
+carbonate bearing pebble
+carbonate bearing grus pebble
+carbonate bearing detrital pebble
+carbonate bearing gravelly pebble
+carbonate bearing clayey pebble
+carbonate bearing silty pebble
+carbonate bearing muddy pebble
+carbonate bearing sandy pebble
+carbonate bearing grus sediment
+carbonate bearing grus
+carbonate bearing gravelly grus
+carbonate bearing pebbly grus
+carbonate bearing detrital grus
+carbonate bearing sandy grus
+carbonate bearing silty grus
+carbonate bearing clayey grus
+carbonate bearing muddy grus
+carbonate bearing debris sediment
+carbonate bearing debris
+carbonate bearing gravelly debris
+carbonate bearing pebbly debris
+carbonate bearing grus debris
+carbonate bearing sandy debris
+carbonate bearing silty debris
+carbonate bearing clayey debris
+carbonate bearing muddy debris
+carbonate bearing block sediment
+carbonate bearing blocks
+carbonate bearing detrital blocks
+carbonate bearing pebbly blocks
+carbonate bearing detrital pebble blocks
+carbonate rich sediment
+argillaceous marl sediment
+silty argillaceous marl
+muddy argillaceous marl
+gravel bearing argillaecous marl
+gravelly argillaceous marl
+pebble bearing argillaceous marl
+pebbly argillaceous marl
+grus bearing argillaceous marl
+grus argillaceous marl
+debris bearing argillaceous marl
+detrital argillaceous marl
+strongly humus argillaceous marl
+muddy marl sediment
+clayey muddy marl
+sandy muddy marl
+gravel bearing muddy marl
+gravelly muddy marl
+pebble bearing muddy marl
+pebbly muddy marl
+grus bearing muddy marl
+grus muddy marl
+debris bearing muddy marl
+detrital muddy marl
+stronly humus muddy marl
+silty marl sediment
+clayey silty marl
+muddy silty marl
+sandy silty marl
+gravel bearing silty marl
+gravelly silty marl
+pebble bearing silty marl
+pebbly silty marl
+grus bearing silty marl
+grus silty marl
+debris bearing silty marl
+detrital silty marl
+strongly humus silty marl
+carbonatic sand sediment
+carbonatic silty sand
+carbonatic muddy sand
+gravel bearing carbonatic sand
+gravelly carbonatic sand
+pebble bearing carbonatic sand
+pebbly carbonatic sand
+grus bearing carbonatic sand
+carbonatic grus sand
+debris bearing carbonatic sand
+carbonatic debris sand
+strongly humus carbonatic sand
+carbonatic gravel sediment
+carbonatic grus gravel
+detrital carbonatic gravel
+pebbly carbonatic gravel
+sandy carbonatic gravel
+sitly carbonatic gravel
+clayey carbonatic gravel
+muddy carbonatic gravel
+carbonatic pebble sediment
+carbonatic grus pebble
+detrital carbonatic pebble
+gravely carbonatic pebble
+clayey carbonatic pebble
+silty carbonatic pebble
+muddy carbonatic pebble
+sandy carbonatic pebble
+carbonatic grus sediment
+gravely carbonatic grus
+pebbly carbonatic grus
+detrital carbonatic grus
+sandy carbonatic grus
+silty carbonatic grus
+clayey carbonatic grus
+muddy carbonatic grus
+carbonatic debris sediment
+gravely carbonatic debris
+pebbly carbonatic debris
+carbonatic grus debris
+sandy carbonatic debris
+silty carbonatic debris
+clayey carbonatic debris
+muddy carbonatic debris
+carbonatic block sediment
+carbonatic detrital blocks
+carbonatic pebbly blocks
+carbonatic detrital pebble blocks
+carbonate free organic sediment
+turf peat dry
+lowland fen turf
+transition bog turf
+upland fen turf
+earthy slaty lignite
+carbonate bearing organic sediment
+carbonate bearing humus
+carbonate rich humus
+carbonate bearing turf peat
+carbonate bearing lowland fen turf
+carbonate rich turf peat
+carbonate rich lowland fen turf
+carbonate bearing organic mud
+carbonate rich organic mud
+granitic plutonic
+syenitic plutonic
+dioritic plutonic
+gabbrotic plutonic
+foidolitic plutonic
+quartz syenite
+quartz monzonite
+quartz monzodiorite
+quartz monzogabbro
+quartz diorite
+quartz gabbro
+quartz anorthosite
+olivine gabbro
+olivine gabbronorite
+olivine norite
+orthopyroxene gabbro
+clinopyroxene norite
+hornblende gabbro
+foid monzosyenite
+foid monzodiorite
+foid monzogabbro
+foid diorite
+foid gabbro
+ultramafic plutonics
+pyroxene peridotite
+hornblende peridotite
+olivine orthopyroxenite
+olivine websterite
+olivine klinopyroxenite
+olivine pyroxenite
+pyroxene hornblendite
+olivine hornblendite
+olivine melilitolite
+pyroxene melilitolite
+carbonatite plutonic
+calcite carbonatite
+dolomite carbonatite
+ferro carbonatite
+charnockite plutonic
+rhyolitic volcanic
+dacitic volcanic
+trachytic volcanic
+latitic volcanic
+basaltic volcanic
+tholeiitic volcanic
+andesitic volcanic
+phonolitic volcanic
+tephritic volcanic
+basanitic volcanic
+foiditic volcanic
+ultramafic volcanic
+quartz trachyte
+quartz latite
+tholeitic basalt
+olivine basalt
+alkali basalt
+mela andesite
+tephritic phonolite
+phonolitic tephrite
+phonolitic basanite
+phonolitic foidite
+tephritic foidite
+basanitic foidite
+melilite nephelinite
+ultramafic volcanic
+olivine melilithite
+calcite carbonatite
+dolomite carbonatite
+ferro carbonatite
+natro carbonatite
+acidic volcanic
+intermediate volcanic
+basic volcanics
+ultra basic
+basaltic andesite
+peralkalic trachyte
+comenditic trachyte
+pantellitic trachyte
+basaltic trachyandesite
+k trachybasalt
+subalkali basalt
+tholeitic basalt
+alkali basalt
+tephri phonolite
+phono tephrite
+picritic volcanic
+rhyolitic volcaniclast
+dacitic volcaniclast
+trachytic volcaniclast
+andesitic volcaniclast
+basaltic volcaniclast
+tholeitic volcaniclast
+phonolitic volcaniclast
+tephritic volcaniclast
+basanitic volcaniclast
+foiditic volcaniclast
+pyroclastic undefined
+ash tuff
+ash lapillistone
+bomb lapillistone
+block lapillistone
+bomb tuff
+pyroclastic breccia
+block tuff
+tuff breccia
+ignimbrite consolidated
+ignimbrite welded
+pyroclastic rhyolitic
+rhyolitic agglomerate
+rhyolitic agglutinate
+rhyolitic peperite
+pyroclastic dacitic
+dacitic agglomerate
+dacitic agglutinate
+dacitic peperite
+pyroclastic trachytic
+trachytic agglomerate
+trachytic agglutinate
+trachytic peperite
+pyroclastic latitic
+latitic agglomerate
+latitic aggglutinate
+latitic peperite
+pyroclastic andesitic
+andesitic agglomerate
+andesitic agglutinate
+andesitic peperite
+pyroclastic basaltic
+basaltic agglomerate
+basaltic agglutinate
+basaltic peperite
+pyroclastic phonolitic
+phonolitic agglomerate
+phonolitic agglutinate
+phonolitic peperite
+pyroclastic basanitic
+basanitic agglomerate
+basanitic agglutinate
+basanitic peperite
+autoclastic volcaniclast
+top breccia
+bottom breccia
+tuffaceous claystone
+tuffaceous siltstone
+tuffaceous sandstone
+tuffaceous conglomerate
+tuffaceous breccia
+volcaniclastic sedimentary
+volcaniclastic claystone
+volcaniclastic siltstone
+volcaniclastic sandstone
+volcaniclastic conglomerate
+volcaniclastic breccia
+lahar consolidated
+granite aplite
+granodiorite aplite
+tonalite aplite
+dykes´ granite
+dykes´ granodiorite
+dykes´ tonalite
+porphyritic granite
+porphyritic granodiorite
+porphyritic tonalite
+syenite aplite
+monzonite aplite
+monzodiorite aplite
+diorite aplite
+gabbro aplite
+dykes´ syenite
+dykes´ monzonite
+dykes´ monzodiorite
+dykes´ diorite
+dykes´ gabbro
+porphyric syenite
+porphyric monzonite
+porphyric monzodiorite
+porphyric diorite
+porphyric gabbro
+dolerite diabase
+alkalibasaltic dolerite
+theoleitic dolerite
+fioditic dyke
+alkali lamprophyre
+melilitic lamprophyr
+carbonatic kimberlite
+meta sedimentary
+meta pelite
+silicic schist
+meta psammite
+meta arkose
+meta graywacke
+meta psephite
+meta conglomerate
+meta igneous
+meta plutonite
+meta granite
+meta granodiorite
+meta diorite
+meta gabbro
+metamorphic dyke
+meta aplite
+meta pegmatite
+meta dolerite
+meta volcanic
+meta rhyolite
+meta rhyodacite
+meta dacite
+meta trachyte
+meta basalt
+meta andesite
+meta phonolite
+meta basanite
+meta pikrite
+meta volcaniclastic
+meta pyroclastic
+meta tuffite
+pillow breccia
+marble sorted
+calcite marble
+dolomite marble
+carbonate phyllite
+apatite quartzite
+epidote quartzite
+garnet quartzite
+graphite quartzite
+magnetite quartzite
+muscovite quartzite
+serictite quartzite
+albite phyllite
+chloritoide phyllite
+garnet phyllite
+quartz phyllite
+sericite phyllite
+mica schist
+albite gneiss
+andalusite gneiss
+biotite gneiss
+cordierit gneiss
+disthene gneiss
+mica gneiss
+garnet gneiss
+graphite gneiss
+muscovite gneiss
+pyroxene gneiss
+metafelsic granulite
+granulite gneiss
+andalusite hornfels
+cordierite hornels
+actinolite schist
+biotite amphibolite
+diopside amphibolite
+epidote amphibolite
+garnet amphibolite
+zoisite amphibolite
+eklogite amphibolite
+metamafic granulite
+metamafic hornfels
+meta ultramafic
+talcum schist
+olivine fels
+fault breccia
+black shale
+alum shale
+ribbon slate
+silty schist
+siliciclastic sedimentary
+silicate claystone
+silicate siltstone
+arenite sandstone
+fine sandstone
+medium sandstone
+coarse sandstone
+quartz arenite
+feldspatic arenite
+fine arkose
+medium arkose
+coarse arkose
+fine sublitharenite
+medium sublitharenite
+coarse sublitharenite
+fine litharenite
+medium litharenite
+coarse litharenite
+lithic arenite
+graywacke wacke
+fine graywacke
+medium graywacke
+coarse graywacke
+quartz wacke
+feldspathic wacke
+lithic wacke
+pebbly conglomerate
+grus breccia
+debris breccia
+carbonatic sedimentary
+carbonatic siliciclastic
+carbonatic claystone
+carbonatic mudstone
+carbonatic sandstone
+carbonatic conglomerate
+carbonatic breccia
+dolomitic siliciclastic
+dolomitic claystone
+dolomitic mudstone
+dolomitic sandstone
+dolomitic conglomerate
+dolomitic breccia
+siliciclastic limestone
+clayey limestone
+muddy limestone
+sandy limestone
+conglomeratic limestone
+brecciatic limestone
+siliciclastic dolimite
+clayey dolomite
+muddy dolomite
+sandy dolomite
+conglomeratic dolomite
+brecciatic dolomite
+marly claystone
+marl claystone
+clay marl
+lime marl
+dolomite marl
+marl limestone
+marl dolomite
+marly limestone
+marly dolomite
+dolomitic lutite
+dolomitic siltite
+dolomitic arenite
+dolomitic rudite
+calcitic lutite
+calcitic siltite
+calcitic arenite
+calcitic rudite
+allothonous limestone
+autochthonous limestone
+mikritic limestone
+micrite limestone
+intramicrite limestone
+oomicrite limestone
+biomicrite limestone
+biopelmicrite limestone
+pelmicrite limestone
+dismicrite limestone
+sparitic limestone
+sparite limestone
+intrasparite limestone
+oosparite limestone
+biosparite limestone
+biopelsparite limestone
+pelsparite limestone
+algual biolithite
+brachiopod biolithite
+cephalopod biolithite
+crinoidal biolithite
+coral biolithite
+shell biolithite
+reef biolithite
+poriferan biolithite
+stromatolithic biolithite
+sulphate salt
+chloride salt
+nitrate salt
+borate salt
+mixed salt
+silica sedimentarys
+phosphate sedimentarys
+phosphorite nodule
+xyloid coal
+stubben horizon
+humic coal
+bituminous coal
+flaming coal
+gas coal
+cooking coal
+steam coal
+lean coal
+semi anthracite
+meta anthracite
+sapropelic coal
+sapropelic lignite
+boghead lignite
+cannel lignite
+boghead coal
+cannel coal
+oil shale
+iron ore
+manganese ore
+phosphate ore
+aluminia ore
+nickel ore
+copper ore
+volcaniclastic sediments
+ash layering
+lapilli layering
+bomb layering
+block layering
+ignimbrite unconsolidated
+surge deposit
+tuffaceous deposit
+tuffaceous clay
+tuffaceous silt
+tuffaceous sand
+tuffaceous gravel
+tuffaceous pebble
+volcaniclastic sediment
+volcaniclastic clay
+volcaniclastic silt
+volcaniclastic sand
+volcaniclastic gravel
+volcaniclastic pebble
+lahar unconsolidated
+clastic sediments
+siliciclastic sediments
+clay sediment
+clay dry
+silty clay
+muddy clay
+clay moistured
+gravel clay
+pebbly clay
+grus clay
+detrital clay
+muddy sediments
+mud dry
+mud moistured
+clayey mud
+normal mud
+sandy mud
+gravelly mud
+pebbly mud
+grus mud
+detrital mud
+silty sediments
+silt dry
+silt moistured
+clayey silt
+muddy silt
+sandy silt
+gravelly silt
+pebbly silt
+grus silt
+detrital silt
+sandy sediments
+silty sand
+muddy sand
+pure sand
+gravelly sand
+pebbly sand
+grus sand
+detrital sand
+gravel sediments
+grus gravel
+detrital gravel
+pebbly gravel
+sandy gravel
+silty gravel
+clayey gravel
+muddy gravel
+pebbly sediments
+grus pebble
+detrital pebble
+gravely pebble
+clayey pebble
+silty pebble
+muddy pebble
+sandy pebble
+grus sediments
+gravely grus
+pebbly grus
+detrital grus
+sandy grus
+silty grus
+clayey grus
+muddy grus
+detrital sediments
+gravely debris
+pebbly debris
+grus debris
+sandy debris
+silty debris
+clayey debris
+muddy debris
+block sediments
+block debris
+block pebble
+argillaceous marl
+muddy marl
+silty marl
+carbonatic sand
+carbonatic gravel
+carbonatic pebble
+carbonatic grus
+carbonatic blocks
+carbonate sediment
+organic sediment
+decomposed litter
+turf peat
+organic mud
+coaly sediments
+siliceous sediments
+artificial sediments
+ normativ
+po sium
+consolidated
+magmatic
+plutonic
+plutonic
+quartzolite
+granite
+syenogranite
+monzogranite
+granodiorite
+tonalite
+syenite
+monzonite
+monzodiorite
+monzogabbro
+diorite
+gabbro
+gabbronorite
+norite
+troctolite
+anorthosite
+malignite
+shoncinite
+nephelinolite
+urtite
+ijolite
+melteigite
+leucitolite
+italite
+fergustite
+missourite
+peridotite
+dunite
+harzburgite
+lherzolite
+wehrlite
+pyroxenite
+orthopyroxenite
+websterite
+klinopyroxenite
+hornblendite
+melilolite
+volcanic
+volcanic
+rhyolite
+rhyodacite
+dacite
+obsidian
+trachyte
+latite
+basalt
+leucobasalt
+andesite
+phonolite
+tephrite
+basanite
+limburgite
+foidite
+nephelinite
+analcimite
+leucitite
+melilithite
+carbonatite
+volcanic
+rhyolite
+trachydacite
+dacite
+andesite
+trachyte
+trachite
+trachyandesite
+benmoreite
+latite
+mugearite
+shoshonite
+trachybasalt
+hawaiite
+basalt
+phonolite
+tephrite
+basanite
+picrobasalt
+foidite
+nephelinite
+boninite
+picrite
+comatiite
+meimechite
+volcaniclastic
+volcaniclastics
+pyroclastics
+lapillistone
+agglomerate
+agglutinate
+peperite
+tuffite
+dyke
+dyke
+dolerite
+lamprophyr
+dyke
+microgranite
+microgranodiorite
+microtonalite
+granophyr
+microsyenite
+micromonzonite
+micromonzodiorite
+microdiorite
+microgabbro
+lamprophyre
+minette
+kersanite
+vogesite
+spessartite
+camptonite
+sannaite
+monchiquite
+fourchite
+quachitite
+alnoite
+polzenite
+kimberlite
+metamorphic
+hornfels
+buchite
+silicic
+hydroclastic
+metacarbonate
+marble
+quartzite
+metafelsics
+phyllite
+gneiss
+granulite
+metamafics
+greenschist
+prasinite
+amphibolite
+eclogite
+serpentinite
+tectonite
+cataclast
+melange
+schist
+mylonite
+migmatite
+anatexite
+metatexite
+diatexite
+syntexite
+sedimentary
+pelite
+sapropelite
+psammitearenite
+arkose
+sublitharenite
+litharenite
+psephite
+conglomerate
+cobbles
+boulders
+breccia
+marl
+carbonate
+lutite
+siltite
+arenite
+ooidlothic
+oncolithic
+rudite
+dolomite
+limestone
+mudstone
+wackstone
+floatstone
+packstone
+grainstone
+rudstone
+boundstone
+bafflestone
+bindstone
+framestone
+biolithites
+bioclastic
+gypsum
+anhydrite
+halite
+sylvenite
+salpeter
+sylvine
+chert
+phosphorite
+coal
+fusite
+gagatite
+lignite
+anthracite
+liptobiolote
+ore
+unconsolidateds
+tephra
+sand
+gravel
+pebble
+grus
+debris
+blocks
+litter
+humus
+bitumen
+asphalt
+petroleum
+diatomite
+quartz
+granitic
+syenitic
+dioritic
+gabbrotic
+gabbrodic
+foidolite
+foidolitic
+ultra
+mafic
+classification
+quartzolite
+granite
+alkali
+feldspar
+granodiorite
+tonalite
+quartzalkalifeldsparsyenite
+quartzsyenite
+quartzmonzonite
+quartzmonzodiorite
+quartzmonzogabbro
+quartzdiorite
+quartzgabbro
+quartzanorthosite
+alkalifeldsparsyenite
+syenite
+monzonite
+monzodiorite
+monzogabbro
+diorite
+gabbro
+olivine
+orthopyroxene
+clinopyroxene
+hornblende
+pyroxene
+anorthosite
+foidbearingalkalifeldsparsyenite
+foidbearing
+foidsyenite
+nephelinesyenite
+foidmonzosyenite
+foidmonzodiorite
+foidmonzogabbro
+foiddiorite
+foidgabbro
+nephelinolite
+leucitolite
+ultramafic
+plutonics
+pyroxeneperidotite
+pyroxenehornblendeperidotite
+hornblendeperidotite
+plagioclase
+melilitic
+melilitolite
+melililolite
+calcite
+affinity
+ferro
+charnockite
+rhyolitic
+dacitic
+trachytic
+latitic
+basaltic
+tholeiitic
+andesitic
+phonolitic
+tephritic
+basanitic
+foiditic
+alkalifeldsparrhyolite
+rhyolite
+rhyodacite
+dacite
+quartzalkalifeldspartrachyte
+quartztrachyte
+alkalifeldspartrachyte
+trachyte
+foidbearingalkalifeldspartrachyte
+foidbearingtrachyte
+quartzlatite
+latite
+basalt
+tholeitic
+amphibole
+leucobasalt
+leuco
+andesite
+melaandesite
+phonolite
+tephriticphonolite
+tephrite
+phonolitictephrite
+basanite
+analcim
+phonoliticbasanite
+phonoliticfoidite
+tephriticfoidite
+basaniticfoidite
+foidite
+nephelinite
+melilitenephelinite
+analcimite
+leucitite
+natro
+acidic
+intermediate
+basic
+volcanics
+siooversaturated
+comenditic
+comendite
+pantelleritic
+pantellerite
+trachydacite
+high
+siosaturated
+trachite
+peralkalic
+pantellitic
+trachyandesite
+benmoreite
+mugearite
+shoshonite
+trachybasalt
+hawaiite
+undersaturated
+subalkali
+alumina
+sioundersaturated
+tephriphonolite
+phonotephrite
+picrobasalt
+highmgvolcanics
+boninite
+picritic
+picrite
+comatiite
+meimechite
+volcaniclastics
+volcaniclast
+pyroclastic
+undefined
+ash
+tuff
+grained
+coarse
+crystal
+lapilli
+bomb
+block
+tuffbreccia
+airfall
+deposit
+ashflow
+ignimbrite
+welded
+unwelded
+surge
+pyroclastic
+aggglutinate
+phonlitic
+crystall
+surhe
+autoclastic
+tuffaceousclaystone
+tuffaceoussiltstone
+tuffaceoussandstone
+tuffaceousconglomerate
+tuffaceousbreccia
+claystone
+siltstone
+sandstone
+lahar
+structureless
+dyke
+quartzrich
+quartzbearing
+foidrich
+dolerite
+lamprophyr
+pegmatite
+granitoidic
+composition
+aplite
+dykes´
+porphyritic
+nephelinitic
+porphyric
+diabase
+alkalibasaltic
+leucite
+nepheline
+theoleitic
+fioditic
+ultrabasic
+lamprophyric
+carbonatic
+hydrothermal
+gangue
+mineralization
+mineral
+aggregate
+pseudomorphosic
+baryte
+sulfide
+meta
+psammite
+graywacke
+igneous
+plutonite
+garnet
+turmaline
+peralkaline
+pikrite
+rhyodacitic
+tuffitic
+fragment
+silicate
+silica
+apatite
+epidote
+graphite
+magnetite
+muscovite
+serictite
+albite
+chloritoide
+sericite
+mica
+andalusite
+biotite
+chlorite
+staurolite
+cordierit
+sillimanite
+disthene
+gneis
+metafelsic
+cordierite
+hornels
+coround
+hercynite
+actinolite
+diopside
+zoisite
+eklogite
+metamafic
+talcum
+fels
+fault
+slate
+slaty
+metamudstone
+shale
+alum
+silty
+siliciclastic
+alternation
+dominated
+subfeldspatic
+feldspatic
+lithic
+wacke
+feldspathic
+feldspethic
+pebbly
+granule
+grud
+marol
+carbonatebearing
+dolomitic
+clayey
+muddy
+sandy
+conglomeratic
+brecciatic
+dolimite
+clay
+lime
+marly
+limemarl
+clastic
+calcitic
+mud
+grain
+limestones
+autochthonous
+mikritic
+micrite
+intramicrite
+intraclastic
+oomicrite
+ooid
+biomicrite
+biopelmicrite
+pelmicrite
+peloid
+dismicrite
+sparitic
+sparite
+intrasparite
+oosparite
+biosparite
+biopelsparite
+pelsparite
+algual
+biolithite
+brachiopod
+cephalopod
+crinoidal
+coral
+shell
+reef
+poriferan
+stromatolithic
+chemicalbiogene
+noncarbonate
+salts
+sulphate
+salt
+chloride
+nitrate
+borate
+sedimentarys
+introducted
+radiolarite
+lydite
+alaun
+phosphate
+nodule
+xyloid
+stubben
+brown
+earthy
+bituminouscoal
+sapropelic
+boghead
+cannel
+sapropolic
+bituminous
+iron
+red
+spar
+pyrite
+manganese
+aluminia
+nickel
+ferrous
+metal
+copper
+lead
+zinc
+sediments
+lapillie
+unconsolidated
+tuffaceous
+silt
+sediment
+pebbel
+gravelly
+gravely
+argillaceous
+argillaecous
+sitly
+organic
+turf
+peat
+transition
+bog
+coaly
+siliceous
