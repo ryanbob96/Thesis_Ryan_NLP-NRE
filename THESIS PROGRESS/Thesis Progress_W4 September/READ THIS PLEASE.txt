@@ -1,0 +1,3 @@
+Please Download data for Poppler and Tesseract OCR. Just Put These folders in outside (in folder Thesis Progress_W3 August):
+
+https://drive.google.com/drive/folders/1iyWmhH5vfvAcsh3zED6R4Zzz-lU54hue?usp=sharing

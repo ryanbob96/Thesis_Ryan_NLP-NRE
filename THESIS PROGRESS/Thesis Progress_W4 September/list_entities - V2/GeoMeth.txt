@@ -1,0 +1,149 @@
+quality indice geographic uncertatiny
+qualitiy indice measurement conditions
+quality indice measurement parameter
+uniaxial compressive saint ength
+quality indice saint atigraphy
+specific heat capacity
+bulk thermal conductivity
+matrix thermal conductivity
+specific heat capacity
+volumetric heat capacity
+radiogenic heat production
+uniaxial compressive strength
+qualitiy indice petrography
+quality indice stratigraphy
+value quality index
+class quality index
+saint ndard deviation
+tensile saint ength
+standard deviation
+thermal conductivity
+youngs modulus
+sampling point
+grain density
+bulk density
+total porosity
+effective porosity
+apparent permeability
+intrinsic permeability
+thermal diffusivity
+p-wave velocity
+s-wave velocity
+youngs modulus
+shear modulus
+bulk modulus
+lamé modulus
+lame modulus
+friction coefficient
+triaxial experiments
+poisson ratio
+tensile strength
+electrical conductivity
+magnetic susceptibility
+saint atigraphy
+saint ain
+saint t
+saint ess
+saint tic
+saint ength
+saint atigraphy
+longitude
+decimaldegree.minutes
+latitude
+elevation
+a.s.l.
+radius
+uncertainty
+km
+igsn
+length
+height
+width
+diameter
+decimaldegrees.minutes
+depth
+md
+tvd
+petrography
+stratigraphy
+temperature
+pressure
+pa
+saturating
+saturation
+sigma1
+mpa
+sigma2
+sigma3
+pore
+strain
+rate
+kn/s
+mpa/s
+mm/s
+1/s
+value
+grain
+density
+kg/m³
+min
+max
+porosity
+permeability
+m²
+thermal
+conductivity
+w/m·k
+inhomogenity
+heat
+capacity
+j/kg·k
+volumetric
+j/m³·k
+diffusivity
+m²/s
+radiogenic
+w/m³
+p-wave
+velocity
+m/s
+frequency
+khz
+s-wave
+dyn
+modulus
+gpa
+stat
+shear
+lame
+cohesion
+friction
+coefficient
+confining
+porefluid
+differential
+stress
+mean
+compactive
+yield
+critical
+onset
+inelastic
+hydrostatic
+compaction
+shear-enhanced
+enhanced
+poisson
+ratio
+dynamic
+static
+ucs
+tensile
+strength
+s/m
+formation
+resistivity
+chronostratigraphy
+petrography
+stratigraphy
+cohesion
