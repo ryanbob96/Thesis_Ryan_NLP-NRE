@@ -1,0 +1,4884 @@
+high - pressure , high - temperature filtration test
+low - pressure , low - temperature filtration test
+seismic - while - drilling vertical seismic profile
+dense - non - aqueous - phase liquids
+water , oil , and solids test
+high - pressure , high - temperature
+stock - tank oil initially in place
+stock - tank original oil in place
+light - non - aqueous phase liquids
+acrylamido - methyl - propane sulfonate polymer
+cut - and - thread fishing technique
+full - azimuth towed - streamer acquisition
+rich - azimuth towed - streamer acquisition
+wide - azimuth towed - streamer acquisition
+mise - a - la - messe
+non - aqueous - phase - liquid
+through - flowline ( tfl )
+cold heavy oil production with sand
+transient rate and pressure test analysis
+thousand standard cubic feet per day
+surface - controlled subsurface safety valve
+dense non - aqueous phase liquid
+light non - aqueous phase liquid
+drinking - water standard or guideline
+boyle ' s law single cell
+boyle ' s law double cell
+drill - noise vertical seismic profile
+inside - out air seat test
+sulfonated polystyrene - maleic anhydride copolymer
+salt - proximity vertical seismic profile
+subsurface surface - controlled safety valve
+viscosity and gel - strength test
+vinyl acetate - maleic anhydride copolymer
+walk - above vertical seismic profile
+zero - offset vertical seismic profile
+bevel - gear - operated valve
+uranium - thorium - lead dating
+borehole - to - borehole measurements
+alkaline - surfactant - polymer flooding
+double block - and - bleed
+fluid - loss - control material
+flow - after - flow tests
+high - specific - gravity solids
+low - specific - gravity solids
+metal - to - metal seal
+oil - in - water emulsion
+root - mean - square velocity
+signal - to - noise ratio
+water - in - oil emulsion
+a . s . l .
+polarize , polarization , polarizable
+spectral analysis of surface waves
+multichannel analysis of surface waves
+munitions and explosives of concern
+billion cubic feet per day
+barrels of oil per day
+barrels of water per day
+barrels of liquid per day
+correcting pressure to a datum
+cut and thread fishing technique
+come out of the hole
+difficult to disperse in salt
+drill noise vertical seismic profile
+easy to disperse in salt
+propylene glycol normal propyl ether
+pull out of the hole
+toe to heel air injection
+seismic reflection or refraction line
+tubing - retrievable safety valve
+three - dimensional seismic data
+wireline - retrievable safety valve
+common - offset rayleigh wave
+single - point resistivity log
+electromagnetic - casing inspection log
+single - point resistance log
+bowen ' s reaction series
+non - aqueous phase liquid
+leak - off pressure test
+minimum - phase vibroseis correlation
+api fluid - loss test
+balanced - activity oil mud
+backward multiple - contact test
+bottoms - up mud sample
+four - component seismic data
+forward multiple - contact test
+flushed - zone water saturation
+flake lost - circulation material
+final shut - in period
+fiber lost - circulation material
+granular lost - circulation material
+high - pressure air injection
+high - shot density gun
+hydrophile - lipophile balance number
+invert - emulsion oil mud
+injection / pulsed neutron log
+initial shut - in period
+in - situ fluid analysis
+in - situ viscosity evaluation
+late - time transient data
+long - spacing sonic log
+low - colloid oil mud
+middle - time transient data
+multiazimuth towed - streamer acquisition
+no - go landing nipple
+naphthene - base crude oil
+narrow - azimuth seismic data
+one - dimensional seismic data
+operating gas - lift valve
+paraffin - base crude oil
+power - fluid injection rate
+pulsed - neutron holdup log
+relaxed - filtrate oil mud
+rate - dependent skin effect
+steam - assisted gravity drainage
+shut - in bottomhole pressure
+shear - strength measurement test
+time - lapse seismic data
+time - domain electromagnetic method
+ten - minute gel strength
+ten - second gel strength
+two - dimensional seismic data
+trans - alaska pipeline system
+three - component seismic data
+ultralong - spaced electrical log
+water - based drilling fluid
+non - point source pollution
+wastewater - treatment return flow
+water - alternating - gas
+block - and - bleed
+logging - while - drilling
+measurements - while - drilling
+pitch - and - lead
+polycrystalline diamond compact bit
+quality indice geographic uncertatiny
+qualitiy indice measurement conditions
+quality indice measurement parameter
+borehole television or video
+depth reference or datum
+spine and ribs plot
+differential global positioning system
+mound seismic reflection configuration
+hubbert and rubey law
+normal compaction trend line
+resolution of well logs
+resolution of well logs
+rutherford and williams classification
+zonation of a reservoir
+cubic foot per second
+amplitude variation with offset
+axis of rotational symmetry
+absolute open flow potential
+activity of aqueous solutions
+amplitude variation with offset
+area open to flow
+bearden units of consistency
+bid and study agreement
+by weight of cement
+bring in the well
+law of the contact
+by weight of blend
+by weight of water
+critical gas flow rate
+capillary suction time test
+epithermal neutron porosity measurement
+early time transient data
+fourier transform infrared spectroscopy
+formation evaluation while drilling
+flow after flow tests
+gas formation volume factor
+infinite acting radial flow
+injection pulsed neutron log
+induced gamma ray spectroscopy
+in situ viscosity evaluation
+in situ fluid analysis
+long spacing sonic log
+low colloid oil mud
+life of the well
+liquefied natural gas carrier
+million standard cubic feet
+mils per year penetration
+microbial enhanced oil recovery
+material safety data sheet
+mobile offshore drilling unit
+nuclear magnetic resonance measurement
+natural gamma ray spectroscopy
+naturally occurring radioactive materials
+offset vertical seismic profile
+oil formation volume factor
+oil and gas separator
+oil and gas lease
+perforating depth control log
+progressive cavity pumping system
+pulsed neutron spectroscopy log
+pulsed neutron spectroscopy measurement
+preferential right to operate
+preferential right to purchase
+radial differential temperature log
+recoverable gas lift gas
+right of first refusal
+summation of fluids method
+spine and ribs plot
+standard temperature and pressure
+thermally activated mud emulsion
+thermal neutron porosity measurement
+very large crude carrier
+water formation volume factor
+walkaway vertical seismic profile
+modified mercalli intensity scale
+law of faunal succession
+law of lateral continuity
+law of original horizontality
+law of stratigraphic succession
+cubic feet per second
+hydroelectric power water use
+million gallons per day
+thermoelectric power water use
+corrosion - resistant alloy
+three - dimensional survey
+tubing - conveyed perforating
+tubing - end locator
+low - velocity zone
+moment - magnitude scale
+rubidium - strontium dating
+x - ray diffraction
+p - wave velocity
+s - wave velocity
+gamma - ray spectrometry
+time - domain electromagnetic
+frequency - domain electromagnetic
+equal - width increment
+water - quality criteria
+water - quality guidelines
+water - quality standards
+acoustic - velocity logs
+heat - pulse flowmeter
+very low - frequency
+archie ' s law
+back - up curve
+bottom - hole temperature
+casing - collar locator
+current channeling / gathering
+formation - resistivity factor
+micro - gravity survey
+short - normal log
+spectral - gamma log
+spontaneous - potential log
+potassium - argon dating
+carbon - 14 dating
+echo - sounding sonar
+cross - cutting relationships
+non - destructive testing
+common - midpoint stack
+common - offset gather
+common - offset stack
+complex - trace analysis
+controlled - source electromagnetics
+dip - azimuth map
+energy half - time
+four - dimensional data
+gamma - ray log
+gas - cap drive
+gas - diffusion seal
+minimum - phase wavelet
+ninety - degree wavelet
+ocean - bottom cable
+ocean - bottom seismometer
+over towed - streamer
+under towed - streamer
+polarized s - waves
+pressure - transient testing
+reflecting - point smear
+salt - proximity survey
+shear - wave splitting
+three - component geophone
+time - lapse logging
+time - lapse seismology
+zero - phase wavelet
+applied - potential method
+air - cut mud
+as - delivered btu
+all - welded construction
+back - pressure valve
+band - limited function
+boyle ' s law
+bound - fluid log
+bow - spring centralizer
+bottomhole shut - in
+bubble - tight shutoff
+compression - set packer
+chemical - marker injection
+closed - chamber testing
+cmc - hi vis
+cmc - lo vis
+closed - in well
+clay - water interaction
+clear - water drilling
+casing - potential profile
+common - source gather
+common - receiver gather
+casing - inspection log
+cable - tool drilling
+diesel - oil mud
+differential - temperature log
+direct - indicating viscometer
+dean - stark extraction
+diesel - oil plug
+driller ' s depth
+drilling - fluid engineer
+drill - in fluid
+dynamic - aging test
+dry - bed dehydrator
+dual - permeability reservoir
+dual - porosity reservoir
+extended - reach drilling
+fractured - well analysis
+fracture half - length
+free - point indicator
+free - water knockout
+fluid - loss additive
+free - air correction
+free - induction decay
+fluid - density log
+fluid - friction reducer
+fluid - interface log
+fluid - loss control
+filter - cake thickness
+fixed - source method
+finite - wellbore solution
+fixed - cutter bit
+first - contact miscibility
+finite - conductivity fracture
+fatty - acid soap
+fermat ' s principle
+f - k plot
+fee - simple interest
+fast - neutron reaction
+fast - formation arrival
+film - forming amine
+ferro - chrome lignosulfonate
+f - k domain
+filter - cake quality
+gas - lift valve
+gas / liquid ratio
+gas - cut mud
+gas - well deliverability
+gravel - pack screen
+gas - lift mandrel
+gravel - pack log
+gravel - pack gun
+gas - solubility factor
+gelled - up mud
+gas - oil contact
+gas - cap drive
+gas - holdup log
+gamma - gamma log
+gas / oil ratio
+hydrofluoric - hydrochloric acid
+high - gravity solids
+high - pressure squeeze
+high - side toolface
+high - pressure manifold
+hydrogen - induced failures
+inverted five - spot
+infinite - acting reservoir
+infinite - conductivity fracture
+injection - well testing
+in - situ combustion
+kill - weight fluid
+line - source solution
+last - shot detection
+low - solids mud
+low - velocity layer
+low - salinity waterflooding
+lost - circulation material
+low - gravity solids
+liquid - junction potential
+low - yield clay
+long - path multiple
+limestone - compatible scale
+least - time path
+micellar - polymer flooding
+make - up water
+material - balance equation
+magnetic - flux leakage
+maxwell ' s equations
+mud - out sample
+mud - in sample
+multiple - rate tests
+multiple - isotope spectroscopy
+multiple - contact miscibility
+multiple - isotope log
+mud - aging cell
+mixed - metal silicate
+mixed - metal hydroxide
+minimum - time path
+moving - source method
+normal - moveout correction
+non - darcy flow
+non - newtonian fluid
+neutron - activation log
+near - surface correction
+native - solids mud
+native - state core
+off - pattern well
+ohm ' s law
+oil - base mud
+oxide - closure model
+one - way time
+open - flow potential
+oil - emulsion mud
+oil - mud emulsifier
+oil / brine ratio
+oil / water ratio
+ocean - bottom cable
+oil - water interface
+occam ' s inversion
+particle - plugging test
+particle - plugging apparatus
+particle - size distribution
+paid - up lease
+peg - leg multiple
+pendant - drop tensiometer
+pore - pressure transmission
+pore - pressure gradient
+pressure - drawdown analysis
+pressure - composition diagram
+pressure - squared plot
+power - law fluid
+pilot - operated regulator
+phase - shift resistivity
+reduced - water slurry
+reserve - mud pit
+rising - bubble apparatus
+radio - safe detonator
+radioactive - tracer log
+real - time data
+right - angle set
+synthetic - base fluid
+surfactant - alternating gas
+stimulation by - product
+synthetic - base mud
+synthetic / water ratio
+synthetic / brine ratio
+sulfate - resistant cement
+sulfate - reducing bacteria
+surface shut - in
+snell ' s law
+spinning - drop tensiometer
+steady - state behavior
+steam - oil ratio
+sandstone - compatible scale
+stress - induced anisotropy
+side - scan sonar
+shut - in pressure
+shut - in royalty
+shear - seal bop
+slowing - down length
+three - phase separator
+three - phase flow
+through - tubing gun
+tension - set packer
+telluric - current method
+two - way traveltime
+true - amplitude recovery
+two - phase separator
+two - pass method
+two - phase flow
+two - dimensional survey
+tracer - loss measurement
+tracer - ejector measurement
+transient - pressure testing
+transient - pressure response
+u - tube effect
+variable - density log
+water - bottom roll
+wet - clay porosity
+water - mud emulsifier
+wellbore fill - up
+water / oil ratio
+walsh - hadamard transform
+walk - above vsp
+water - flow log
+water - filled resistivity
+water - cut meter
+whole - mud dilution
+x - ray fluorescence
+x - ray diffraction
+young ' s modulus
+young - laplace equation
+zero - zero gels
+zero - offset vsp
+brittle - ductile boundary
+fault - plane solution
+focal - mechanism solution
+least - squares fit
+point - source pollution
+self - supplied water
+suspended - sediment concentration
+suspended - sediment discharge
+m / s
+m / s2
+attenuation , attenuate
+inversion , inverting
+magnetics , geomagnetics
+gibbs ' phenomenon
+rain shadow effect
+mercalli intensity scale
+nephelometric turbidity unit
+body relief valve
+downhole safety valve
+technical evaluation agreement
+vertical transverse isotropy
+plutonic field description
+angle of repose
+trajectory of shoreline
+uniaxial compressive strength
+quality indice stratigraphy
+specific heat capacity
+bulk thermal conductivity
+matrix thermal conductivity
+specific heat capacity
+volumetric heat capacity
+radiogenic heat production
+uniaxial compressive strength
+qualitiy indice petrography
+quality indice stratigraphy
+acoustic waveform logging
+spontaneous potential log
+ground penetrating radar
+normal log resistivity
+nuclear magnetic resonance
+lateral resistivity log
+focussed resistivity log
+vertical incidence vsp
+value quality index
+frequency domain electromagnetic
+time domain electromagnetic
+class quality index
+acoustic televiewer log
+automatic gain control
+cement bond log
+depth of invasion
+depth of investigation
+ground penetrating radar
+imaging work station
+interval transit time
+long normal log
+normal moveout corrections
+percentage frequency effect
+primary magnetic field
+secondary magnetic field
+shale base line
+spectral induced polarization
+time domain electromagnetics
+time domain reflectometry
+marine magnetic anomaly
+underground storage tank
+free air correction
+electrical resistivity tomography
+depth of investigation
+amplitude variation angle
+amplitude variation offset
+artificial neural networks
+chemically enhanced recovery
+dipole sonic log
+enhanced oil recovery
+equivalent mud weigh
+formation volume factor
+huff and puff
+in situ combustion
+instrumented oil field
+instrumented oil field
+interval transit time
+limit of resolution
+limit of visibility
+limit of visibility
+logging while drilling
+low gas saturation
+measurement while drilling
+miscible recovery methods
+monte carlo method
+movable oil plot
+net to gross
+production logging tool
+rate of penetration
+reflection character analysis
+repeat formation tester
+rayleigh resolution limit
+seismic data processing
+thomsen anisotropic parameters
+vertical seismic profile
+ept richness index
+biochemical oxygen demand
+combined sewer overflow
+best management practice
+basic fixed sites
+fda action level
+water column studies
+aniline point test
+adjusted flow time
+api spec 6d
+authorization for expenditure
+asphaltene onset pressure
+angle of incidence
+angle of approach
+amplitude variation withazimuth
+acoustic velocity log
+aromatic content test
+annular gas flow
+absorbing boundary conditions
+array propagation resistivity
+acoustic impedance section
+acrylamide acrylate polymer
+asphaltic mud additive
+areal displacement efficiency
+agc time constant
+average reservoir pressure
+aluminum activation log
+automatic gain control
+authority for expenditure
+areal sweep efficiency
+bland coring fluid
+billion cubic feet
+big hole charge
+biochemical oxygen demand
+bingham plastic model
+base of weathering
+british thermal unit
+bump the plug
+blind shear ram
+blowing the drip
+bottomhole static temperature
+bottom log interval
+bottomhole circulating temperature
+borehole gravity meter
+borehole seismic data
+bottomhole gas separator
+bottomhole injection pressure
+coiled tubing connector
+constant composition expansion
+compensated neutron log
+complete a well
+composite frac tree
+complex trace analysis
+compositional fluid analysis
+compensated density log
+chemical marker injection
+chemical oxygen demand
+cloud point glycol
+chemical neutron source
+cement evaluation log
+closed mud system
+cement bond log
+cation exchange capacity
+caustic extraction test
+corrected gamma ray
+controlled time survey
+core gamma log
+critical flow rate
+cyclic steam injection
+crustal magnetic field
+crosswell electromagnetic tomography
+crossover service tool
+standard deviational ellipses
+crosswell seismic tomography
+crosswell reflection tomography
+continuous gas lift
+common depth point
+common midpoint method
+common receiver gather
+common reflection point
+common source gather
+cap the well
+carbonate gamma ray
+carbide lag test
+carbon dioxide corrosion
+carried working interest
+capillary tube viscometer
+calcium carbonate plug
+capillary pressure curve
+casing burst pressure
+casing inspection log
+casing shoe test
+casing collar locator
+casing collar log
+casing potential profile
+dielectric propagation log
+deep seismic sounding
+deep penetrating charge
+differential pressure sticking
+differential weathering correction
+differential temperature log
+difficult to disperse
+depth reference point
+depth of invasion
+depth of investigation
+delta t stretch
+dye penetrant inspection
+dynamic filter press
+dynamic fluid level
+dry forward combustion
+dispersed bubble flow
+dst pressure chart
+distributed temperature log
+direct hydrocarbon typing
+effective water saturation
+effective wellbore radius
+effective shot density
+explosive seismic data
+extensive dilatancy anisotropy
+extended reach drilling
+expanding gate valve
+estimated ultimate recovery
+enhanced oil recovery
+external disturbance field
+equivalent water resistivity
+electromagnetic propagation measurement
+equation of state
+equivalent circulating density
+external pulling tool
+eddy current measurement
+electric submersible pump
+electrical stability test
+electrical double layer
+elemental capture spectroscopy
+easy to disperse
+effective laminar flow
+elastic neutron scattering
+free air correction
+formation exposure time
+fluid compatibility test
+fluid interface log
+formation fracture pressure
+fixed source method
+flowing neutron log
+final flow rate
+flowline mud sample
+final flow period
+flow after flow
+fast fourier transform
+final flowing pressure
+filtration test cell
+gun the pits
+gas deviation factor
+gas holdup log
+gamma ray interactions
+gunning the pits
+glass jar test
+gamma ray densitometer
+gamma ray log
+gas processing plant
+garrett gas train
+geomagnetic secular variation
+gas volume fraction
+hollow carrier gun
+hydraulic release tool
+hydraulic power unit
+held by production
+hydraulic fracture monitoring
+hydraulic power pack
+high pressure squeeze
+horizontal transverse isotropy
+hpht filtration test
+huff and puff
+inflow control valve
+inflow performance relationship
+inflow control device
+induced particle plugging
+initial flow period
+inelastic neutron scattering
+induction electrical survey
+initial reservoir pressure
+intermediate casing string
+inner seat ring
+inside blowout preventer
+intermittent gas lift
+internal pulling tool
+interval transit time
+international nautical mile
+impressed current anodes
+improved oil recovery
+impulsive seismic data
+in situ combustion
+molecularization of genetics
+limestone porosity unit
+liquefied natural gas
+limestone compatible scale
+line source solution
+lean gas condensate
+layered reservoir testing
+lead acetate test
+long path multiple
+low yield clay
+low velocity layer
+low gravity solids
+liquid saturation method
+local magnetic interference
+light crude oil
+liquefied petroleum gas
+methyl orange alkalinity
+methylene blue dye
+mercury displacement method
+milligrams per kilogram
+milligrams per liter
+milk emulsion mud
+make a connection
+managed pressure drilling
+material balance equation
+marsh funnel viscosity
+main magnetic field
+measurement after drilling
+magnetic particle inspection
+magnetic total field
+marine drilling riser
+maximum treating pressure
+maximum working pressure
+maximum recorded temperature
+minerals management service
+mud pulse telemetry
+mud return line
+multiple service contract
+multiphase holdup log
+minimum miscibility concentration
+multiphase fluid flow
+multicomponent seismic data
+minimum miscibility pressure
+minimum miscibility enrichment
+modified isochronal test
+modulus of rigidity
+modulus of elasticity
+modulus of compression
+methylene blue test
+mechanical specific energy
+methylglucoside drilling fluid
+nuclear fluid densimeter
+nuclear magnetic resonance
+nonconductive drilling fluid
+net revenue interest
+net gas production
+net oil production
+net profits interest
+neutron activation log
+naturally flowing well
+natural gas liquids
+nonparticipating royalty interest
+natural remanent magnetism
+1d seismic data
+overriding royalty interest
+open flow potential
+openhole gravel pack
+oil on cuttings
+parts per billion
+permanent well monitoring
+parts per million
+production service contract
+production sharing contract
+pressure transient test
+pressurized mud balance
+primary completion components
+primary recovery method
+propagation resistivity measurement
+pumping well tests
+pump volumetric efficiency
+pseudostatic spontaneous potential
+pressure transient analysis
+pressure storage tank
+porous plate technique
+positive displacement motor
+positive displacement pump
+portland cement clinker
+pressure buildup analysis
+pressure integrity test
+pounds per barrel
+petal basket flowmeter
+phase velocity log
+plug and abandon
+routine core analysis
+rotational gas lift
+rotating control device
+rotary steerable system
+reel back tension
+relative dielectric constant
+relative dielectric permittivity
+relative filtrate volume
+remotely operated vehicle
+remaining oil saturation
+rate of penetration
+rate of shear
+reservoir drive mechanisms
+roller cone bit
+rolling aging test
+roll a tank
+rockwell hardness testing
+rockwell hardness number
+ram blowout preventer
+radius of investigation
+range of load
+raw natural gas
+restored state core
+residual oil saturation
+reverse circulating valve
+retrievable bridge plug
+rich gas condensate
+right angle set
+racking back pipe
+sucker rod pump
+superposition in space
+swing check valve
+synthetic natural gas
+superposition in time
+space frequency domain
+sulfur light crude
+sulfide stress cracking
+sour crude oil
+sodium acid pyrophosphate
+static fluid level
+static filter press
+static spontaneous potential
+static aging test
+stabilized gas well
+sized calcium carbonate
+scale inhibitor squeeze
+salt proximity survey
+sandstone porosity unit
+selective running tool
+secondary porosity index
+strokes per minute
+stress corrosion cracking
+seismic refraction method
+seismic reflection tomography
+subsurface safety valve
+submersible drilling rig
+subsea isolation valve
+step rate test
+stock tank barrel
+side pocket mandrel
+shoot a well
+shoot a level
+slip and cut
+thermal neutron absorber
+thermal diffusion length
+time after bit
+timed slug analysis
+true vertical depth
+true amplitude recovery
+tubing performance curve
+tubing testing tool
+tubing seal assembly
+top log interval
+total hardness test
+transverse magnetic mode
+transient electromagnetic method
+type curve analysis
+transverse electric mode
+transient drainage radius
+units conversion factor
+uniaxial compressive strength
+vapor recovery unit
+velocity correction factor
+vertical displacement efficiency
+vertical seismic profile
+visible position indicator
+volumetric displacement efficiency
+volumetric cross section
+volumetric sweep efficiency
+vertical sweep efficiency
+vibratory seismic data
+wellbore storage effects
+well interference testing
+well production rate
+well flow rate
+water bottom roll
+water alternating gas
+wait on cement
+winsor phase behavior
+blind thrust fault
+carbon 14 age
+geologic time scale
+magnetic polarity reversal
+ring of fire
+surface wave magnitude
+commercial water use
+domestic water use
+industrial water use
+irrigation water use
+livestock water use
+maximum contaminant level
+milligrams per liter
+mining water use
+municipal water system
+ngvd of 1929
+parts per billion
+parts per million
+per capita use
+primary wastewater treatment
+prior appropriation doctrine
+public water use
+riparian water rights
+secondary wastewater treatment
+sewage treatment plant
+tertiary wastewater treatment
+acre - foot
+self - potential
+decimaldegree . minutes
+kn / s
+mpa / s
+mm / s
+1 / s
+kg / m³
+w / m·k
+j / kg·k
+j / m³·k
+m² / s
+w / m³
+p - wave
+s - wave
+shear - enhanced
+s / m
+borehole - compensated
+cross - hole
+half - life
+in - phase
+ohm - meter
+p - wave
+ri / fs
+s - wave
+common - midpoint
+c - wave
+dip - azimuth
+dip - moveout
+flip - flop
+ps - wave
+self - potential
+sh - wave
+sv - wave
+time - lapse
+time - tie
+bcf / d
+ball - operated
+back - propagation
+back - stripping
+band - reject
+band - pass
+bs & w
+burn - over
+bridge - off
+bottoms - up
+blow - by
+back - in
+chrome - free
+cmc - hvt
+cmc - lvt
+common - offset
+common - receiver
+common - source
+depth - derived
+erosion - corrosion
+five - spot
+flow - concentrating
+gas - bearing
+hydraulic - set
+in - line
+j - slot
+low - solids
+lbm / bbl
+lb / bbl
+lock - up
+mis - tie
+mscf / d
+nipple - up
+nipple - down
+o - ring
+oil - wet
+p - wave
+p & a
+pull - up
+p - rate
+q - wave
+sv - wave
+sh - wave
+stick / slip
+time - lapse
+through - tubing
+through - conduit
+tell - tale
+twist - off
+vee - door
+water - wet
+x - signal
+x - radiography
+left - lateral
+p - wave
+right - lateral
+s - wave
+acre - foot
+mg / l
+mgal / d
+wave refraction
+numerical dating
+air gap
+nondestructive examination
+productivity index
+equilibrium point
+breeder reactor
+environmental effect
+earth systems
+yield point
+surface wave
+daughter isotope
+elastic limit
+stream discharge
+hydraulic lifting
+stream terrace
+seismic swarm
+seismic tomography
+metallic bonding
+metamorphic grade
+translatory motion
+magnetic reversal
+mechanical weathering
+magnetic field
+thermal contraction
+thermal expansion
+thermal plume
+relative dating
+farm improvements
+nitrogen volatilisation
+soil conservation
+standard deviation
+tensile strength
+standard deviation
+terrain conductivity
+thermal conductivity
+sonic logging
+youngs modulus
+sampling point
+grain density
+bulk density
+total porosity
+effective porosity
+apparent permeability
+intrinsic permeability
+thermal diffusivity
+youngs modulus
+shear modulus
+bulk modulus
+lamé modulus
+lame modulus
+friction coefficient
+triaxial experiments
+poisson ratio
+background concentration
+seismic reflection
+seimic refraction
+gravity graiometry
+tensile strength
+electrical conductivity
+degradation products
+dissolved constituent
+dissolved solids
+drainage area
+drainage basin
+drip irrigation
+ecological studies
+endocrine system
+environmental framework
+environmental sample
+environmental setting
+artificial recharge
+magnetic susceptibility
+environmetal geology
+economic geology
+consumptive use
+contributing area
+aquatic guidelines
+fish community
+fixed sites
+directed blast
+tissue study
+tolerant species
+total concentration
+total ddt
+water budget
+structural geology
+glacial geology
+engineering geology
+forensic geology
+medical geology
+remote sensing
+acoustic logging
+acoustic televiewer
+microresistivity log
+dipmeter log
+induction logging
+impeller flowmeter
+gamma logging
+neutron logging
+casing loging
+induced polarization
+metal detectors
+fathometer surveys
+subbottom profiling
+well logging
+well log
+acoustic impedance
+acoustic log
+acoustic wave
+activation log
+analog recording
+api unit
+apparent resistivity
+atomic number
+atomic weight
+bouguer correction
+brute stack
+bulk density
+bulk modulus
+caliper log
+cementation factor
+complex conductivity
+complex number
+complex resistivity
+compressional wave
+compton scattering
+conduction currents
+cultural environment
+current density
+cycle skip
+dead time
+density log
+departure curves
+depth section
+dielectric constant
+dielectric permittivity
+differential log
+digital log
+directional survey
+displacement currents
+dual laterolog
+effective porosity
+elastic moduli
+electric field
+electrical logs
+electromagnetic method
+electron volt
+epithermal neutron
+equipotential map
+fan shooting
+field print
+first reading
+flexural waves
+fluid sampler
+flushed zone
+focused log
+frequency domain
+gamma log
+gamma ray
+geomagnetic field
+geophysical mapping
+geophysical monitoring
+grain density
+ground electrode
+guard log
+induced magnetization
+induced polarization
+induction log
+induction number
+invaded zone
+last reading
+lateral log
+m electrode
+magnetic permeability
+magnetic susceptibility
+microresistivity log
+mud cake
+mud filtrate
+neutron log
+normal log
+nuclear log
+open hole
+optimum offset
+phase shift
+reflection coefficient
+remanent magnetization
+repeat section
+resistivity logs
+scintillation detector
+secondary porosity
+seismic reflection
+seismic refraction
+self potential
+shear modulus
+shear wave
+skin depth
+richter scale
+specific conductance
+shearing stress
+spinner survey
+spontaneous potential
+streaming potential
+surface wave
+atomic mass
+atomic number
+gravity anomaly
+faunal succession
+original horizontality
+temperature log
+terrain conductivity
+thermal neutron
+time constant
+time domain
+tracer log
+transient electromagnetics
+variabledensity log
+velocity panels
+well log
+instrument drift
+latitude correction
+tidal correction
+unexploded bomb
+unexploded ordnance
+fourier analysis
+frequency domain
+close planting
+bouguer correction
+apparent resistivity
+bouguer anomaly
+carbon ignition
+base station
+abnormal pressure
+acoustic impedance
+air guns
+amplitude anomaly
+amplitude extraction
+amplitude shadow
+appraisal well
+aquifer drive
+arbitrary line
+array sonic
+seismic log
+arrival time
+artificial lift
+aspect ratio
+seismic attribute
+avo classification
+azimuthal anisotropy
+azimuthal vsp
+dip display
+basic wavelet
+borehole imaging
+bright spot
+bubble point
+buoyancy pressure
+capillary pressure
+casing plan
+chair display
+check shot
+clay diagenesis
+coherence analysis
+coherence filtering
+conditional simulation
+converted wave
+critical point
+crosshole tomography
+cyclic steam
+data processing
+delineation well
+density log
+depth migration
+depth slice
+detectable limit
+dim spot
+dip moveout
+dip spectrum
+dix equation
+dominant frequency
+double refraction
+drillstem test
+dual sensors
+dynamic range
+eaton method
+eaton exponent
+edge map
+effective permeability
+effective porosity
+effective pressure
+electromagnetic imaging
+electromagnetic method
+embedded wavelet
+equivalent depth
+equivalent wavelet
+excess pressure
+exploratory well
+far offset
+fault slice
+first arrivals
+flat spot
+flow unit
+fluid factor
+formation microimager
+formation test
+formation microscanner
+formation test
+formation velocity
+forward modeling
+forward process
+forward solution
+forward solution
+fourier transform
+fracture gradient
+frequency domain
+fresnel zone
+gas chimney
+gas cloud
+geometric spreading
+geophone group
+geothermal gradient
+gravity stabilization
+gravity survey
+ground roll
+group velocity
+hard overpressure
+history match
+hockey stick
+horizon amplitude
+horizon slice
+horizontal section
+horizontal well
+hot pot
+hydraulic fracturing
+hydrocarbon indicator
+hydrostatic pressure
+in situ
+instantaneous frequency
+instantaneous phase
+intelligent well
+interference test
+interval velocity
+invaded zone
+inverse filter
+inverse problem
+joint inversion
+kelly bushing
+learning set
+legacy data
+live oil
+loading history
+material balance
+maximum likelihood
+median filter
+methane hydrates
+migration aperture
+mobile fluids
+mud cake
+mudrock line
+mud weight
+natural pairing
+near offset
+net reservoir
+neural networks
+neutron log
+node recording
+noise attenuation
+normal incidence
+normal moveout
+normal pressure
+nyquist frequency
+offset vsp
+orthorhombic anisotropy
+overburden pressure
+passive method
+patch shooting
+patchy gas
+phase velocity
+poisson reflectivity
+poisson ratio
+polar anisotropy
+polarity reversal
+polarity standard
+pore pressure
+porosity logs
+precise leveling
+pressure communication
+pressure gradient
+pressure prediction
+pressure testing
+prestack migration
+primary porosity
+primary recovery
+principal stress
+production history
+proximity survey
+pvt analysis
+raypath parameter
+recovery factor
+reflection coefficient
+reflection point
+reflection waveshape
+reservoir characterization
+reservoir depletion
+reservoir delineation
+reservoir description
+reservoir drive
+reservoir geophysics
+reservoir model
+reservoir monitoring
+reservoir simulation
+reservoir stimulation
+reservoir surveillance
+retrograde condensation
+reverse polarity
+reverse vsp
+ricker wavelet
+rms velocity
+rock physics
+salt flood
+sampling theorem
+secondary porosity
+secondary pressure
+secondary recovery
+sediment flood
+shadow zone
+shear wave
+shooting under
+shuey approximation
+smart well
+snell’s law
+solution gas
+sonic log
+spectral decomposition
+spinner survey
+spot pattern
+spot pattern
+stacking velocity
+standard conditions
+standard conditions
+stratigraphic interpretation
+stratigraphic trapping
+stratigraphic trapping
+streamer feathering
+stress ratio
+structural hyperpressuring
+subnormal pressure
+synthetic seismogram
+terzaghi’s law
+thermal recovery
+thief zone
+time domain
+time migration
+time slice
+transit time
+transverse isotropy
+tuning effect
+tuning thickness
+underbalanced drilling
+velocity analysis
+velocity anisotropy
+velocity anomaly
+velocity effect
+velocity function
+vertical cable
+water drive
+water flood
+wave period
+wavelet processing
+wavelet transform
+wide azimuth
+wide tow
+zoeppritz’s equations
+abrasion test
+acoustic emission
+archie equation
+asp flooding
+api water
+angular dispersion
+acid tank
+acoustic transparency
+annular space
+amplitude anomaly
+annular velocity
+anchor pin
+apparent wavelength
+anisotropic formation
+apparent velocity
+amplitude distortion
+adjustable choke
+apparent viscosity
+asphaltic crude
+azimuthal resolution
+antiwhirl bit
+audio measurement
+acid wash
+acoustic traveltime
+acoustic wave
+acid effect
+adhesion tension
+acid frac
+acoustic coupler
+adapter spool
+antialias filter
+abandonment costs
+air drill
+activation log
+annular bop
+alford rotation
+adjacent bed
+air shooting
+acoustic velocity
+abrasive jetting
+air gun
+active sulfide
+alpha processing
+acyclic compound
+acrylate polymer
+antifoam agent
+apparent anisotropy
+acoustic transducer
+acquisition log
+absolute volume
+acoustic impedance
+abnormal events
+axial loading
+azimuthal density
+alias filter
+asphaltene precipitation
+aluminum stearate
+archie rock
+air drilling
+alkaline flooding
+apparent matrix
+air wave
+aerated layer
+acoustic basement
+acrylamide polymer
+ambient temperature
+acoustic log
+absorption oil
+arrival time
+aeromagnetic survey
+acid inhibitor
+alkalinity test
+azimuthal laterolog
+absorption band
+artificial lift
+array sonic
+absolute filter
+array laterolog
+aliphatic compound
+acetic acid
+altered zone
+acid gas
+acoustic mode
+acid job
+atmospheric corrosion
+acid number
+array induction
+accelerator source
+abnormal pressure
+api cement
+acid stimulation
+aromatic hydrocarbon
+acoustic positioning
+attenuation resistivity
+average velocity
+seismic attribute
+beam pump
+bead tracer
+bean choke
+beaufort scale
+bit record
+bit resistivity
+bit nozzle
+bit trip
+bit breaker
+black list
+belt effect
+blaine fineness
+biot theory
+bicenter bit
+bed wrap
+bichromate salt
+blanket gas
+bit box
+bilinear flow
+bimetallic corrosion
+battery site
+balanced array
+back up
+backup curve
+back flow
+ball dropper
+back stripping
+backup ring
+base station
+back in
+blasting cap
+bad hole
+back wash
+ball valve
+balance point
+balanced plug
+ball catcher
+ball diverter
+ball launcher
+background gas
+back propagation
+back off
+ball operated
+base oil
+basket flowmeter
+basket sub
+barrel pump
+barefoot completion
+bank firing
+barite plug
+barrel equivalent
+blank pipe
+bromide brine
+blast joint
+bromocresol green
+brookfield viscometer
+broadside array
+brute stack
+base exchange
+base log
+base slurry
+basic wavelet
+batch mixer
+batch treatment
+band reject
+ball sealers
+band pass
+bright spot
+bridging material
+bridging agent
+bubble count
+breakdown pressure
+breakout tongs
+bridge plug
+break out
+break circulation
+braided line
+breakout cathead
+button resistivity
+buttress thread
+butt weld
+butterfly chart
+butterfly valve
+bypass velocity
+bypassed mud
+bucking coil
+buffered solution
+buggy vibro
+burn shoe
+bucking current
+bubble effect
+buoyancy method
+bubble flow
+buffalo head
+bulk relaxation
+buffered mud
+bulk volume
+bulk modulus
+bullet perforating
+buildup test
+bull plug
+blast sleeve
+blow out
+body wave
+blowout preventer
+bonus consideration
+blow down
+bond log
+buffer solution
+bleed off
+bond number
+bleedoff line
+blind ram
+blind box
+bound fluid
+bound water
+blended crude
+bop stack
+blind zone
+blowdown valve
+bouguer correction
+bottom sample
+bouguer anomaly
+borehole televiewer
+boundary conditions
+bounded reservoir
+bottomhole temperature
+bow tie
+born method
+bottomhole choke
+bottomhole sampler
+borehole compensation
+bottle test
+borehole correction
+borehole gravity
+borehole orientation
+bottomhole heater
+bottomhole assembly
+bottomhole pressure
+block valve
+condensate liquids
+conductive invasion
+collar locator
+coiled tubing
+contact time
+collapse pressure
+cold production
+contact angle
+collar lock
+coherence filtering
+coherent detection
+contamination gas
+condensing drive
+coating flaw
+conductometric titration
+company representative
+connection gas
+compatible scales
+completion fluid
+composite log
+compressional wave
+compressor plant
+completion quality
+composite stream
+condensate ratio
+completion skin
+computed tomography
+compression ratio
+compton scattering
+chemical flooding
+choke line
+chloride test
+chemical injection
+chemical barrel
+chemical diverter
+cement head
+check valve
+chemical diversion
+cement plug
+chemical potential
+cloud point
+chenevert method
+chemical wash
+cement squeeze
+chain tongs
+cesium acetate
+charpy test
+cesium formate
+channel wave
+charged zone
+checkshot survey
+chelating agent
+closing unit
+close in
+circulate out
+christmas tree
+choke manifold
+chrome lignite
+chromate salt
+chrome lignosulfonate
+chrome tubing
+chromic salt
+chemical cutter
+churn flow
+cement retainer
+centrifugal pump
+cement retarder
+circle shooting
+closure pressure
+co2 injection
+coal gasification
+circulation sub
+clay extender
+clay stabilizer
+clay swelling
+clean out
+clear brine
+cat line
+circulation device
+circulation loss
+caustic potash
+circulation time
+city gate
+circulation system
+citric acid
+circulation valve
+cement extender
+cement dispersant
+cylinder operator
+caustic soda
+cellulosic polymer
+cave effect
+correlation log
+corrosion coupon
+corrosion control
+corrosion rate
+critical damping
+corkscrew hole
+cementation exponent
+corrosion fatigue
+corrosion inhibitor
+counterbalance winch
+control line
+conventional mud
+cementing engineer
+cementing plug
+cement accelerator
+cement additive
+cathodic protection
+cost oil
+counterbalance weight
+cycle gas
+critical angle
+coring fluid
+converted wave
+continuous phase
+contract depth
+core testing
+core analysis
+core plug
+critical matrix
+cultural anomaly
+cultural noise
+curve fitting
+cycle skip
+curve matching
+cycle time
+copper carbonate
+core image
+cuttings lifting
+cut oil
+cutt point
+cut point
+cycle condensate
+cycling plant
+crosscorrelation flowmeter
+cross dipole
+crosswell tomography
+crossplot porosity
+critical rate
+crystallization temperature
+critical reflection
+crooked hole
+cross section
+cross over
+crown block
+crown valve
+crushed zone
+contingency plan
+continuity equation
+colloidal solids
+combination string
+colloidal suspension
+commingled completion
+combi bop
+command trailer
+commercial rate
+commingled flow
+common midpoint
+common offset
+common receiver
+company man
+common source
+compaction correction
+c pump
+carbon dioxide
+carboxymethyl starch
+carrier gun
+carrier fluid
+carrying capacity
+casing bowl
+caprock effect
+cake thickness
+calcium bromide
+cable head
+calcium chloride
+calcium oxide
+calcium mud
+cased hole
+calcium carbonate
+calcium sulfate
+calcium hydroxide
+calcium test
+calcium naphthenate
+capacitance meter
+capacity factor
+casing centralizer
+carboxymethyl hydroxyethylcellulose
+carbonate ion
+capsule gun
+carbonate test
+carbonate scale
+casing joint
+casing head
+carbon density
+casing string
+casing patch
+casing thread
+casing swage
+caliper log
+capillary number
+capacitance log
+casing collar
+casing roller
+casing shoe
+casing valve
+casing coupling
+casing grade
+casing hardware
+casing gun
+casing hanger
+casing spool
+casing reciprocation
+casing scraper
+casing point
+casing completion
+casing pressure
+casing test
+control valve
+calcium contamination
+derrick floor
+deviated drilling
+detail log
+dichromate salt
+deterministic deconvolution
+dynamometer card
+deviated hole
+dielectric constant
+depth wheel
+diffusion relaxation
+dilatancy theory
+diffraction stack
+dipole field
+dilatational wave
+dielectric permittivity
+dim spot
+dilution water
+dip tube
+dip correction
+diffusion equation
+differential spectrum
+differential sticking
+depth section
+deep induction
+deflector flowmeter
+deep tow
+defoaming plates
+degree api
+deliverability test
+damaged zone
+darcy units
+data rate
+datum correction
+day rate
+depth control
+depth conversion
+depth controller
+dielectric resistivity
+depth map
+depth matched
+difference map
+differential pressure
+differential sp
+deflocculated mud
+datum level
+dea unit
+daylight tour
+delay rental
+depth datum
+depth correlation
+depth mark
+depth migration
+depth point
+delta rho
+depth reference
+density measurement
+delta t
+density contrast
+density profile
+departure curve
+dip moveout
+depleted zone
+directional driller
+drilling rig
+drillstem test
+drill bit
+deployment system
+drill solids
+drillpipe conveyed
+drill collar
+drip accumulator
+drilling foreman
+drilling rate
+drilling procedure
+due diligence
+duplex pump
+dynamic filtration
+dropoff gun
+dynamic positioning
+drilling riser
+drilling program
+drillable packer
+drilled solids
+drilling contractor
+drilling break
+drilling detergent
+drilling crew
+drilling fluid
+drilling mud
+drawdown test
+dummy valve
+dynamic seal
+dump bailer
+dynamic correction
+dynamic miscibility
+dynamic range
+drop ball
+drop bar
+dual induction
+dual water
+drop sub
+dry bed
+dry combustion
+dry hole
+drainage volume
+dog collar
+division order
+directional permeability
+dräger tube
+drag bag
+drain hole
+dual completion
+diverter flowmeter
+diverting agent
+directional survey
+displacement front
+directional well
+dix formula
+displacement efficiency
+dispersed clay
+draeger tube
+double refraction
+displacement fluid
+dissolved solids
+directional drilling
+disposal well
+distillation extraction
+diurnal variation
+direct emulsifier
+downward continuation
+drag bit
+drainage area
+downstream pipeline
+downhole receiver
+downhole source
+dosing pump
+downhole gauge
+downhole sensors
+drained test
+emulsion mud
+electromagnetic heating
+electromagnetic thickness
+elastic constants
+effective porosity
+external cutter
+elastic impedance
+effective velocity
+dry gas
+dry oil
+expansion joint
+evening tour
+extended spread
+expanding cement
+external phase
+environmental corrections
+entrance hole
+exit velocity
+endfire array
+endless tubing
+excess cement
+excavation effect
+evaporation pit
+es test
+expendable plug
+expendable gun
+entrained gas
+eötvös number
+enhanced diffusion
+erosion corrosion
+equalizing loop
+equalizing valve
+escape line
+equivalent weight
+electrical coupon
+equivalent sack
+equipotential method
+electromagnetic propagation
+electrical anisotropy
+equivalent conductance
+elastic wave
+eddy current
+electrode resistivity
+electric probe
+electrode device
+electrokinetic potential
+electrical log
+electrical permittivity
+embedded wavelet
+electromagnetic caliper
+elastic moduli
+emulsion flow
+elevation correction
+external upset
+electrical conductivity
+electrodynamic brake
+electromagnetic method
+echo spacing
+elastic anisotropy
+elastic deformation
+electrical survey
+free point
+free water
+frac manifold
+frac valve
+fluid caliper
+fourier synthesis
+fourier transform
+frac iron
+frac stack
+frac pump
+fracturing pressure
+fracturing manifold
+fracturing sleeve
+frac crew
+full waveform
+frac job
+frac tree
+frac gradient
+funnel viscosity
+frac balls
+fourier analysis
+frac gun
+fresh core
+frac gel
+fullbore spinner
+fresh water
+fracture acidizing
+fracture conductivity
+fracture gradient
+fracturing fluid
+forward modeling
+free gas
+formic acid
+fluid level
+free fluid
+formation water
+formation pressure
+foam generator
+fluid loss
+foreign content
+formation damage
+formation evaluation
+formation fluid
+formation factor
+fluid compressibility
+fluid invasion
+foam diversion
+foam flooding
+fluid pound
+fluoboric acid
+foam breaker
+fluid tester
+foaming agent
+flushed zone
+flush production
+flux leakage
+fly ash
+flush joint
+foamy oil
+foamed cement
+filter cake
+fishbone wells
+flag joint
+fishing bell
+fishing tool
+first break
+fines migration
+first reading
+firing head
+first arrival
+fishing diagram
+fixed choke
+fishing neck
+flowing well
+flake lcm
+flow coefficient
+flash point
+flooding pattern
+flare gas
+flexural mode
+flood front
+flowline manifold
+flowline sample
+fast formation
+flowing pressure
+flapper valve
+fatty acid
+float shoe
+flange up
+flattened section
+float joint
+flat gels
+float collar
+filter loss
+filter media
+filter press
+filter medium
+filtrate slump
+faye correction
+fast diffusion
+filtrate tracer
+field tape
+filtration tester
+filtrate volume
+field weld
+fill cement
+falloff test
+fann viscometer
+fan shooting
+fill sub
+far water
+filtered brine
+filter cell
+ferrous sulfide
+fiber lcm
+flowstream sample
+flow period
+flow loop
+flow unit
+flue gas
+flow line
+flow meter
+flow profile
+flow stream
+flow structure
+flow cross
+flow back
+flow check
+flow assurance
+flow concentrating
+flow coupling
+flow efficiency
+flow regime
+guided wave
+gin pole
+geronimo line
+gravity anomaly
+gunk squeeze
+gaswell liquids
+guide shoe
+gas injection
+guard log
+gaswell gas
+gunk plug
+guard electrode
+gland bushing
+gas cap
+gas gravity
+group interval
+gun clearance
+gas anchor
+gas condensate
+group velocity
+gray list
+gravity toolface
+graveyard tour
+globe valve
+glycol dehydrator
+green gas
+grey list
+green list
+ground roll
+grain density
+geothermal gradient
+goat head
+glycol absorber
+gun barrel
+guar gum
+geophone pattern
+gathering system
+gravel pack
+gelled mud
+gauge pressure
+gravity survey
+gripper blocks
+geophone offset
+gel strength
+gun zero
+gross production
+geophone cable
+gauge tank
+geometrical factor
+granular lcm
+government take
+goose neck
+gyp mud
+gas coning
+gathering lines
+galvanic anodes
+gate valve
+gas well
+gas hydrate
+gas separator
+geophone interval
+gas show
+gauge ring
+gas migration
+gas lock
+gas interference
+gas drive
+gauge hole
+geophone array
+gas lift
+geochemical log
+gravity drainage
+harmonic distortion
+hard water
+hardness ion
+halo effect
+hammer union
+heavy pipe
+header box
+hesitation squeeze
+heater treater
+herschel–bulkley fluid
+hydraulic pumping
+hydrofluoric acid
+head wave
+hydrocarbon indicator
+heavy metal
+heavyweight drillpipe
+hydraulic set
+hook load
+hydrochloric acid
+hydraulic horsepower
+hydraulic packer
+hydrogen index
+hydrogen embrittlement
+hydrogen blistering
+hydrostatic bailer
+hydroxyethyl starch
+hydroxypropyl starch
+hydrostatic pressure
+hookwall packer
+homogeneous formation
+hole cleaning
+holdup map
+holdup meter
+holdup image
+holdup log
+horner slope
+holdup depth
+horizontal tree
+hydrostatic head
+hydrogen sulfide
+hydrogen probe
+hydraulic fracturing
+hydraulic disconnect
+hydraulic centralizer
+horizontal drilling
+hot tapping
+hot waterflooding
+hot lime
+hot oiler
+hot oiling
+hostile environment
+horizon slice
+horizontal separator
+horizontal resistivity
+horizontal severance
+hydraulic cement
+hpht viscometer
+hydraulic bypass
+hybrid scale
+humidity meter
+hp starch
+humble formula
+humic acid
+irreducible water
+isotropic permeability
+isotropic formation
+iron sulfide
+isomerized olefin
+isolated porosity
+isostatic correction
+isochronal test
+isopropyl alcohol
+isochron map
+inert sulfide
+inflatable packer
+inhibitive mud
+injection water
+injection pump
+injection test
+injection pressure
+injection pattern
+injection gas
+infill drilling
+inertial resistance
+inhibited acid
+injection line
+injection mandrel
+induced polarization
+injectivity test
+injection well
+incident angle
+interfacial tension
+interference testing
+injector head
+intelligent well
+instrument hanger
+inside diameter
+interval method
+internal phase
+interval velocity
+internal flash
+intermediate casing
+instrumented pig
+interwell tomography
+image well
+ideal gas
+impermeable barrier
+impulse activation
+in line
+inverse filter
+invaded zone
+inverse problem
+interval time
+jet mixer
+jar test
+jet cutter
+jet nozzle
+jet hopper
+junk basket
+junk sub
+junk pusher
+kick off
+k coefficient
+kelly spinner
+kelly hose
+kirchhoff migration
+knock out
+kill pump
+kill line
+lifting frame
+light pipe
+lean oil
+lyophobic colloid
+licensing round
+light hydrocarbons
+liquid additive
+line drive
+lip seal
+linear flow
+linear alphaolefin
+landing nipple
+lean glycol
+last reading
+laser diffraction
+laplace equation
+landing collar
+laminar flow
+laminated sand
+lag time
+lag gas
+lamé constant
+lean gas
+leak detection
+leak off
+leaky mode
+leakoff test
+lead cement
+lost circulation
+love wave
+loose emulsion
+lyophilic colloid
+layer stripping
+liquid blocking
+lost returns
+longitudinal relaxation
+liquid desiccant
+lubricator valve
+live cement
+lithostratigraphic inversion
+liquid hydrocarbons
+liquid level
+load cell
+live oil
+logging unit
+logging tool
+logging run
+local probe
+logarithmic mean
+lock mandrel
+local content
+local holdup
+load oil
+liner hanger
+lifting sub
+lessor royalty
+liner patch
+lime mud
+limited entry
+methyl orange
+measurement range
+measuring tank
+metal loss
+mechanical sticking
+meter calibration
+membrane potential
+methane hydrate
+mechanical skin
+memory gauge
+medium induction
+multiple salinity
+multiple reflection
+mill out
+mill shoe
+microseismic monitoring
+microspherical log
+microcylindrical log
+measure point
+make up
+makeup cathead
+makeup tongs
+makeup gas
+make hole
+magnetotelluric method
+measured depth
+material balance
+master valve
+mast unit
+marker joint
+marsh funnel
+magnetic constant
+marginal well
+magnesium test
+magnetic field
+magnetic permeability
+magnetic mud
+magnetic resonance
+magnetic toolface
+matrix stimulation
+mbt test
+marker bed
+mud pit
+mud motor
+mud oven
+mud in
+mud filtrate
+mud house
+mass balance
+marketing agreement
+mud program
+mud out
+mud report
+mud scale
+mud hopper
+mudding off
+mud cell
+mudding up
+mud tracer
+mud density
+mud retort
+mud engineer
+mineral interest
+mud acid
+mud anchor
+mud additive
+mud cup
+mud cleaner
+mud balance
+multiple completion
+mud still
+mud up
+multiwell pad
+mud weight
+mutual solvent
+multiphase meter
+multiphase pump
+multifinger caliper
+multiphase fluid
+multicapacitance flowmeter
+mixed deposits
+mobility buffer
+miscible displacement
+mist flow
+mobility control
+minute mark
+standard deviational
+multipass method
+multiphase flow
+mis tie
+mist drilling
+mist extractor
+minimum restriction
+mobility ratio
+moveable hydrocarbons
+moon pool
+moved hydrocarbons
+mosquito bill
+morning tour
+measurement error
+matrix acidizing
+mysid shrimp
+meter factor
+meter capacity
+meter difference
+meter slippage
+mechanical jar
+mechanical diversion
+metal gain
+normal mode
+nitrogen cushion
+nonideal gas
+nonhydrocarbon contaminants
+normal incidence
+nipple up
+nitrogen lift
+nonrising stem
+nitrified fluid
+nipple down
+normal moveout
+nondipole field
+nitrogen injection
+nitrogen unit
+nitrogen kickoff
+nodal analysis
+nitrogen lifting
+nominal filter
+noise log
+neat cement
+neutron capture
+neutralizing solution
+neutral point
+neutron generator
+neutron interactions
+neutron porosity
+newtonian fluid
+neutron log
+natural completion
+needle valve
+natural gasoline
+nautical mile
+naphthenic hydrocarbon
+nonparticipating royalty
+natural frequency
+octyl alcohol
+offset vsp
+olefinic hydrocarbon
+orifice valve
+osmotic pressure
+oilfield battery
+oxygen scavenger
+oil content
+oil mining
+oil swelling
+oil sand
+oil well
+orifice meter
+overriding royalty
+organophilic lignite
+over travel
+openhole completion
+openhole packer
+openhole test
+opening bomb
+operating interest
+offset well
+outside diameter
+operating agreement
+oil bank
+oxygen activation
+ovality limit
+open hole
+organic acid
+optical index
+optical probe
+organic deposit
+organophilic clay
+oil mud
+octahedral layer
+pipeline patrol
+pipe light
+pipe heavy
+pipe dope
+pipe rack
+pipe ram
+pipe trip
+pipe stretch
+piston effect
+plastic viscosity
+plane wave
+pitot tube
+perpendicular resistivity
+plastic fluid
+perpendicular offset
+paraffin control
+paraffinic hydrocarbon
+paraffin scraper
+paraffin inhibitor
+paraffin scratcher
+partial penetration
+partial completion
+participating interest
+parallel resistivity
+pack off
+packer fluid
+packer flowmeter
+packing gland
+paddle mixer
+paddle blender
+pair production
+perforate overbalanced
+perforate underbalanced
+perforated interval
+perforating acid
+perforated liner
+perforating fluid
+perforating charge
+perforating gun
+perforation density
+perforation phasing
+perforation penetration
+permanent datum
+peak shaving
+production string
+production tubing
+production tree
+permeability thickness
+peptizing agent
+peptized clay
+party chief
+party manager
+penetration rate
+polarization horn
+producing well
+production log
+production bonus
+production casing
+production payment
+production penalty
+production packer
+production period
+production wing
+productivity test
+profile modification
+profile testing
+profit oil
+producing formation
+polarization time
+primary cementing
+primary production
+primary recovery
+primary reflection
+primary term
+prime mover
+primer cord
+produced fluid
+progressive gels
+propagation resistivity
+pumping schedule
+pump submergence
+pumping time
+pulse echo
+proration unit
+pseudosteady state
+propagation constant
+pulling tool
+pumping well
+pump manifold
+pump barrel
+pump cavitation
+propagation time
+prorated well
+proximity log
+pseudopressure plot
+pseudogeometrical factor
+pore throat
+pore pressure
+porosity exponent
+porosity unit
+portland cement
+porous medium
+polar compound
+poppet valve
+polished joint
+polished rod
+polymer flooding
+polymer plug
+polyanionic cellulose
+polyanionic lignin
+potassium mud
+pressure sender
+pony rod
+potassium ion
+polyalkalene glycol
+premium thread
+preserved core
+pressure capability
+pressure depletion
+pressure drawdown
+pressure falloff
+pressure buildup
+pressure gradient
+pressure gauge
+pressure hunt
+prehydrated bentonite
+pregelatinized starch
+potential field
+pour point
+power oil
+photoelectric effect
+p wave
+pickling fluid
+pickett plot
+ph test
+phpa mud
+pig run
+pilot test
+pilot mill
+pinion shaft
+photon log
+polarity standard
+phase shift
+pipeline capacity
+phase velocity
+pipeline oil
+pipeline gas
+phase redistribution
+play back
+plug valve
+plugging material
+plug flow
+p rate
+quat amine
+quadrant density
+quality assurance
+quaternary amine
+quick lime
+round trip
+round thread
+rotary table
+remote sensing
+regulatory body
+refractive index
+reference point
+reeled tubing
+red mud
+reducing agent
+reflection coefficient
+repeat section
+reservoir quality
+relative permeability
+reflection tomography
+relative humidity
+random noise
+reserve pit
+replacement velocity
+remedial cementing
+relief valve
+relaxation time
+recovery factor
+recycled gas
+release joint
+radio silence
+radial resolution
+radial response
+roller stem
+road box
+ringworm corrosion
+ray tracing
+rig up
+recorded data
+roll line
+rod elevators
+rig down
+rod unit
+rod pump
+rod string
+rock mechanics
+rising stem
+ring resistivity
+random error
+ram preventer
+radiographic inspection
+radioactive tracer
+radial refraction
+radial processing
+recirculating mixer
+recorder carrier
+rayleigh wave
+radial array
+reciprocating pump
+rotary hose
+rotary drilling
+response matched
+rotary bushing
+rig floor
+resistivity index
+reservoir pressure
+reservoir heterogeneities
+resistivity log
+resistive invasion
+retrievable packer
+retrograde condensation
+ricker wavelet
+rich glycol
+rich oil
+rheological property
+reservoir height
+rigless operation
+retrievable gun
+retort test
+reverse circulation
+retort method
+retort solids
+resolution matched
+retention time
+residence time
+residual oil
+residual bend
+reversing out
+reverse combustion
+rich gas
+rheology modifier
+r signal
+sweep efficiency
+swivel flange
+suspended solids
+sulfide test
+sulfide scavenger
+suction pit
+surfactant flooding
+surface pipe
+stimulation fluid
+surrounding bed
+sulfate resistance
+supply vessel
+surface casing
+surface wave
+surge reliever
+steam trap
+superficial velocity
+sulfonated asphalt
+soxhlet extractor
+surge tank
+surface tension
+surface interest
+surface pressure
+source pattern
+steam soak
+sour corrosion
+sour gas
+space out
+source point
+spacer fluid
+spinner flowmeter
+spherical harmonic
+spherical wave
+spherical separator
+sodium chromate
+soak phase
+sodium polyacrylate
+sodium phosphate
+sonic measurement
+solution gasdrive
+sonic log
+solution gas
+spherical focusing
+spherical divergence
+specific permeability
+spacing unit
+sodium carbonate
+sodium hydroxide
+soda ash
+snubbing jack
+snubbing force
+snubbing basket
+sonde error
+sodium dichromate
+spinner reversal
+soft water
+solid desiccant
+sodium silicate
+spinning chain
+static pressure
+steady state
+static filtration
+spin flowmeter
+steam management
+steam chamber
+stationary snubbers
+stationary slips
+spotting fluid
+square log
+spreading loss
+spot sample
+spontaneous potential
+static correction
+static seal
+spiral borehole
+standing valve
+standard batch
+stage separation
+stacking velocity
+spud mud
+stab in
+spurt loss
+squeeze manifold
+squeeze tool
+squeeze cementing
+stable arch
+squeeze job
+squeeze packer
+stabbing valve
+stability meter
+ssma copolymer
+squeeze pressure
+sized salt
+saver sub
+saturation unit
+sand test
+sand line
+scale inhibitor
+sand control
+scintillation detector
+scraper trap
+scotch yoke
+scallop gun
+scale removal
+sinc x
+skin depth
+saturation equation
+skin effect
+shale baseline
+sand trap
+saturation exponent
+sampling interval
+selective nipple
+satellite platform
+sand production
+saturated solution
+sara analysis
+sand lifting
+sampling error
+sample frequency
+sample rate
+sample interval
+selective perforating
+selective firing
+shadow zone
+salt plug
+sand consolidation
+saltwater flow
+saltwater mud
+sandstone petrography
+sand cleanout
+settling tank
+settling pit
+sequestering agent
+safety head
+safety joint
+safety spacer
+safety valve
+safety clamp
+sacrificial anode
+sand bailer
+seismic velocity
+seismic survey
+seismic trace
+setting tool
+seismic wave
+seawater mud
+seismic stratigraphy
+seismic section
+seating nipple
+seal receptacle
+seal assembly
+sealbore packer
+seismic modeling
+secondary production
+strip gun
+seismic interpretation
+seismic line
+secondary term
+secondary reflection
+structural shale
+streamer feathering
+stuffing box
+scrubber oil
+seabed geophone
+stripping ram
+stripper rubber
+stuck pipe
+stock tank
+separator backpressure
+separator gas
+seismic record
+seismic processing
+secondary cementing
+seismic acquisition
+seismic impedance
+secondary recovery
+structural steering
+strength retrogression
+subsea well
+subsurface pressure
+step profile
+stem indicator
+steerable motor
+strapping tape
+sucker rod
+sweet gas
+swellable packer
+sweet corrosion
+sweet crude
+swaging tool
+swab valve
+systematic error
+synthetic seismogram
+sidewall core
+shear rate
+shear ram
+shutoff valve
+silicate mud
+silicate anion
+shrimp test
+shot point
+silica layer
+signature deconvolution
+sieve analysis
+shoulder bed
+shear stock
+silicic acid
+shear strength
+shear pin
+shot detection
+shear modulus
+shaped charge
+shear stress
+slip velocity
+shear wave
+shot depth
+shifted spectrum
+sloughing shale
+slip joint
+threshold velocity
+tight emulsion
+thief zone
+thickening time
+thermal gradient
+thermal recovery
+thermal capture
+tie line
+time domain
+tannic acid
+tight hole
+tieback packer
+tieback string
+tieback liner
+tick mark
+texas deck
+type curves
+tank bottoms
+tapered cutoff
+tank battery
+tank dike
+tank calibration
+tank table
+tetrahedral layer
+tar sand
+tangential wave
+tall oil
+taper tap
+tail cement
+tapered string
+taylor bubbles
+tail pipe
+tail mute
+tail buoy
+temperature survey
+test separator
+tertiary recovery
+terrain correction
+ternary diagram
+term lease
+tensile strength
+temperature stability
+temperature gradient
+telluric current
+time migration
+tubingless completion
+tubing broach
+time slice
+tubing grade
+tubing hanger
+tubing head
+true resistivity
+tripping pipe
+tree saver
+treatment fluid
+tubing job
+twist off
+temperature log
+trunk line
+tube wave
+tubing displacement
+triplex pump
+trip pill
+tubing joint
+trip gas
+trip out
+tubing pressure
+turbulent flow
+tuning effect
+tubular jar
+top drive
+tubing thread
+total porosity
+treating iron
+tubing puncher
+travel joint
+top lease
+total depth
+total solids
+tornado chart
+torque flowmeter
+tool joint
+transient pressure
+transition zone
+tool string
+top entry
+traveling snubbers
+traveling slips
+traveling block
+traveling valve
+transverse relaxation
+transverse isotropy
+transmission tomography
+transit time
+transition flow
+tracer measurement
+thread protector
+thread rule
+thief hatch
+thermal simulation
+ultraheavy oil
+ultrasonic measurement
+unweighted mud
+unloading valve
+unsteady state
+unitized production
+undersaturated fluid
+undisturbed zone
+undrained test
+velocity correction
+velocity layering
+vent plug
+vertical lift
+venturi valve
+verification listing
+velocity anomaly
+variable rate
+variable orifice
+vertical response
+vertical resolution
+viscous fingering
+volumetric efficiency
+viscous force
+vertical separator
+vertical severance
+vg meter
+virgin zone
+vinyl polymer
+wave propagation
+well potential
+well stimulation
+work string
+wiper trip
+wellbore orientation
+working interest
+wireline grab
+weathered layer
+wet combustion
+wet oil
+work station
+wireline cutter
+wettability change
+weight material
+wellbore diagram
+water control
+well control
+weighting material
+well log
+wedge gate
+wire clamp
+water cushion
+well interference
+wellhead backpressure
+weighting agent
+water cut
+wireline log
+weathering correction
+workover fluid
+well shoot
+wellbore damage
+well servicing
+waterflood kick
+well cleanup
+water coning
+water clarification
+water loss
+water block
+water influx
+water gun
+wavelet extraction
+water mud
+water production
+wall loss
+walkaway vsp
+wall sticking
+water saturation
+wall cake
+wait time
+washover pipe
+wastewater cleanup
+washover shoe
+weak point
+wave equation
+wiper plug
+water hammer
+wing valve
+wash pipe
+wiggle trace
+xanthan gum
+xc polymer
+yield stress
+yield point
+zip groove
+zero phase
+zinc oxide
+body wave
+compressional stress
+compressional wave
+dip slip
+first motion
+focal depth
+great circle
+ground failure
+ground motion
+harmonic tremor
+interplate coupling
+lateral spread
+locked fault
+love wave
+moment magnitude
+moment tensor
+natural frequency
+normal stress
+peak acceleration
+plate tectonics
+poisson distribution
+rayleigh wave
+recurrence interval
+regression analysis
+return period
+richter scale
+rupture velocity
+seismic gap
+seismic hazard
+seismic moment
+seismic wave
+seismic zone
+shadow zone
+shear stress
+shear wave
+spectral acceleration
+standard deviation
+strain rate
+stress drop
+radiometric dating
+strong motion
+surface wave
+tensional stress
+thrust fault
+time history
+transform fault
+traveltime curve
+tsunami magnitude
+velocity structure
+appropriation doctrine
+artificial recharge
+base flow
+capillary action
+consumptive use
+conveyance loss
+drainage basin
+drip irrigation
+flood plain
+flood stage
+flowing well
+gage height
+gaging station
+hydrologic cycle
+impermeable layer
+injection well
+lotic waters
+oxygen demand
+particle size
+peak flow
+polychlorinated biphenyls
+potable water
+potentiometric surface
+piezometric surface
+public supply
+rating curve
+reclaimed wastewater
+recycled water
+return flow
+reverse osmosis
+sedimentation tanks
+septic tank
+settling pond
+specific conductance
+spray irrigation
+storm sewer
+surface tension
+thermal pollution
+unsaturated zone
+water cycle
+water year
+water quality
+water table
+water use
+gradient
+paleomagnetism
+percentile
+stoiip
+pdc
+scssv
+brv
+dsv
+trsv
+vti
+wrsv
+bgo
+cra
+nde
+tcp
+tel
+poisson
+viscosity
+seismicity
+bioaccumulation
+bioavailability
+biodegradation
+confluence
+denitrification
+discharge
+diversion
+drawdown
+evapotranspiration
+drought
+ecoregion
+ecosystem
+effluent
+contamination
+criterion
+constituent
+wasteway
+snell
+dnapl
+geophone
+ert
+hydrophone
+latitude
+lnapl
+masw
+napl
+mec
+uxb
+uxo
+pseudosection
+ndt
+leachate
+fourier
+anomaly
+dgps
+richter
+aftershock
+atom
+hydrolysis
+correlation
+epicenter
+dissolution
+sonar
+gravity
+accretion
+accumulation
+blanking
+calcification
+acidification
+calcify
+catalist
+superposition
+emulsion
+gleisation
+uniformitarianism
+oxidation
+humification
+extrusive
+electrode
+desilicification
+spectrometry
+stain
+static
+geography
+strength
+longitude
+latitude
+elevation
+radius
+uncertainty
+equipotential
+km
+igsn
+length
+height
+width
+diameter
+depth
+md
+tvd
+petrography
+temperature
+pressure
+pa
+saturating
+saturation
+sigma1
+mpa
+sigma2
+sigma3
+strain
+rate
+density
+porosity
+permeability
+m²
+thermal
+conductivity
+inhomogenity
+heat
+capacity
+volumetric
+diffusivity
+radiogenic
+velocity
+frequency
+khz
+dyn
+modulus
+gpa
+shear
+lame
+cohesion
+friction
+coefficient
+confining
+porefluid
+differential
+stress
+compactive
+inelastic
+hydrostatic
+genetics
+epistemological
+compaction
+poisson
+dynamic
+static
+ucs
+tensile
+strength
+resistivity
+chronostratigraphy
+petrography
+cohesion
+planetary
+geomorphology
+seismology
+geophysics
+oceanography
+petrology
+geochemistry
+mineralogy
+paleontology
+paleogeography
+geochronology
+archeology
+biogeosciences
+hydrogeology
+seismic
+tomography
+refraction
+geodesy
+gravity
+magnetic
+aeromagnetic
+magnetotelluric
+electromagnetic
+resistivity
+radiometric
+acoustic
+logging
+electrode
+accuracy
+amplitude
+anisotropic
+annulus
+anomaly
+aquitard
+calibration
+centralizer
+chargeability
+coherence
+collimation
+compressibility
+conductance
+conductivity
+correlation
+crossplot
+curie
+decay
+decentralize
+deconvolution
+detector
+deviation
+dipmeter
+dipole
+dispersion
+electrode
+ferrimagnetic
+filtering
+flowmeter
+formation
+galvanic
+gamma
+geophones
+induction
+interpolation
+interpretation
+isotopes
+lag
+laterolog
+magnetization
+magnetometer
+mapping
+matrix
+mho
+migration
+monitoring
+muting
+noise
+ohm
+permafrost
+permittivity
+porosity
+precision
+probe
+processing
+profiling
+proton
+pseudosection
+quadrature
+radar
+radioactivity
+rcra
+resistivity
+resolution
+reversal
+sasw
+saturation
+sounding
+spacing
+stacking
+standoff
+statics
+tomography
+transducer
+transient
+absorption
+acoustic
+adsorption
+airwave
+amplitude
+ava
+avo
+anisotropy
+annulus
+aperture
+arrival
+attenuation
+autotrackers
+avoaz
+azimuth
+bandwidth
+bhp
+bht
+birefringence
+blowdown
+bowers
+boxcar
+buildup
+buoyancy
+bypassing
+calibration
+chimney
+coherence
+cokriging
+cmp
+cos
+connectivity
+csem
+crosscorrelation
+crosscorrelation
+crosswell
+csamt
+darcy
+deconvolution
+designature
+detuning
+dhi
+diagenesis
+diffraction
+dispersion
+dmo
+downhole
+drawdown
+dst
+drive
+eaton
+eigenfunction
+eikonal
+elastic
+eor
+emv
+exploration
+fingering
+fizz
+fold
+fmi
+fms
+fracturing
+fringe
+geohazard
+geophone
+geopressure
+geostatistics
+ghost
+halo
+hodogram
+hci
+hydrofracing
+hydrofracturing
+hydrophone
+illumination
+interference
+itt
+inversion
+isopach
+isotime
+isotropy
+kerogen
+kriging
+lambda
+rho
+separability
+lwd
+mwd
+microseism
+midpoint
+migration
+miscible
+noise
+nmo
+obc
+obs
+octave
+offset
+vsp
+overpressure
+permeability
+petrophysics
+phasing
+polarity
+pounds
+gallon
+plt
+proppant
+rop
+raypath
+reflection
+reflectivity
+regression
+rft
+reserves
+saturation
+scaling
+seismometer
+semblance
+sequestration
+shuey
+signal
+signature
+simulation
+slimhole
+slowness
+snell
+stochastic
+strain
+stress
+surfactant
+swath
+sweep
+terzaghi
+throats
+tiltmeter
+tomography
+tomostatics
+tracking
+undershooting
+upscaling
+velocity
+vibroseis
+viscosity
+wag
+wavefront
+wavelength
+wavelet
+waveshape
+wettability
+workstation
+zoeppritz
+annubar
+aggregation
+anisotropy
+alkaline
+aggregate
+agglomeration
+asme
+antifoam
+accuracy
+aofp
+annulus
+amines
+anion
+agc
+aeolotropy
+aof
+afterflow
+absorptance
+api
+amides
+accelerometer
+accumulator
+acoustic
+asphaltenes
+adsorption
+aperture
+acidity
+amps
+attapulgite
+azimuth
+acidizing
+accelerator
+aliasing
+autocorrelation
+autotrack
+avo
+alum
+azimuthal
+amplitude
+alkalinity
+antisqueeze
+acidize
+acquisition
+astm
+av
+avoaz
+avaz
+attenuation
+ava
+autotracking
+bel
+beam
+bhct
+bhst
+bhp
+bht
+bicarb
+biphasic
+biocide
+birefringence
+biopolymer
+bimetallism
+bioaccumulation
+bioconcentration
+bioassay
+biodegradation
+backflow
+backscatter
+backwash
+battery
+bactericide
+ballout
+backoff
+backpressure
+baseline
+broach
+brownfield
+btu
+bridle
+baryte
+breakout
+brachistochrone
+bwob
+breakthrough
+buoyancy
+bwow
+bwoc
+bwpd
+bundle
+bubblepoint
+bypass
+buffer
+bullhead
+blpd
+bod
+bm
+booster
+blowout
+bop
+beneficiate
+beneficiation
+bonnet
+blender
+borehole
+bdv
+blockage
+bopd
+bhip
+coherent
+conductance
+conductivity
+collector
+consistency
+consistometer
+concession
+compatibility
+compressor
+completion
+contaminant
+condensate
+compressibility
+concentric
+centipoise
+channeling
+centralizer
+centrifuge
+cercla
+character
+chelate
+chelation
+choke
+cmp
+circulate
+cmc
+cms
+cmhec
+circulation
+coalesce
+coalescence
+clevis
+cleanup
+clathrate
+cleanout
+casinghead
+cathode
+cec
+cavitation
+catwalk
+correlate
+catline
+cdp
+cavings
+cellar
+cresting
+cosurfactant
+cracking
+crg
+conveyance
+convolution
+convolve
+cementer
+cementing
+cathead
+correlation
+corrosion
+cosolvent
+coating
+cpmg
+creaming
+controller
+convergent
+convergence
+cushion
+coreflooding
+copolymer
+ct
+csg
+cwa
+crossline
+crosslinker
+crossover
+css
+crosscorrelate
+crosscorrelation
+crossflow
+communitization
+cogeneration
+colloidal
+cofcaw
+coherence
+carboxymethylcellulose
+cartridge
+casing
+calibration
+ccl
+detector
+desiccant
+detonator
+desulfurize
+dilution
+diluent
+desander
+detonate
+desilter
+diffusion
+dilatation
+dipole
+dilatancy
+diffraction
+deflocculate
+deflocculation
+degasser
+dehydration
+dehydrate
+dehydrator
+deconvolution
+damping
+dart
+dd
+deflocculant
+db
+defoamer
+datum
+decibel
+densimeter
+demulsifier
+densitometer
+dephasing
+dynamometer
+drillpipe
+drillstring
+depletion
+drillship
+drillstem
+droop
+drift
+duster
+driller
+dropout
+divergence
+diverter
+doghouse
+disbonding
+dynamite
+diversion
+drainhole
+dst
+dss
+drawdown
+dispersant
+displacement
+dmo
+dispersion
+dogleg
+drawworks
+dope
+distortion
+directivity
+downstroke
+doodlebugger
+eor
+eta
+epa
+esp
+epm
+erd
+ecd
+edta
+eda
+eccentricity
+eccentralizer
+eccentric
+fpso
+ftir
+ft
+fullbore
+formaldehyde
+fluoroscopy
+fishing
+fitting
+fingering
+fireflooding
+fingerboard
+flowstream
+flowline
+flocculant
+farmor
+flocculate
+flange
+flowback
+flocculation
+floc
+flng
+flare
+fd
+filter
+farmout
+farmee
+filtercake
+filtrate
+fft
+filtration
+flowmeter
+gumbo
+gunk
+ggt
+geosteer
+geophysicist
+goc
+glr
+gradiomanometer
+gasdrive
+geophysics
+galling
+ghost
+grapple
+greenfield
+gravimetry
+giip
+glycol
+gel
+gelation
+gooseneck
+gravity
+gilsonite
+gor
+geosteering
+gr
+geometric
+geophone
+gels
+gamma
+gal
+gor
+gvf
+hodogram
+holdup
+hygrometer
+hatch
+hardfacing
+hardbanding
+hangoff
+haematite
+hematite
+hec
+hertz
+heading
+hopper
+hectorite
+hydrocycloning
+heater
+hydrocyclone
+horizon
+hydroxyethylcellulose
+hygroscopic
+hydrophilic
+hydrophone
+hydrophobic
+hydrometer
+hydrolysis
+hpht
+housing
+humping
+hpu
+hydration
+hydrate
+hwdp
+humidity
+hti
+h2s
+hse
+hud
+isochron
+isopropanol
+inversion
+inhibit
+inhibitor
+induction
+inhibition
+indicator
+inclinometer
+inclination
+intensifier
+interpretation
+intermediate
+imbibition
+immiscible
+im
+iip
+ieom
+icv
+impeller
+impedance
+ilmenite
+inverse
+invasion
+icd
+keyseat
+kaolinite
+knot
+kh
+knockout
+kilopascal
+lgs
+lignite
+leonardite
+levelwind
+lipophilic
+liner
+lateral
+lao
+lamé
+latex
+leakoff
+lcm
+lc50
+ls
+lubricator
+lyophobic
+lwd
+lyophilic
+lubricant
+lubricity
+lpg
+lng
+lngc
+logging
+log
+lignosulfonate
+meter
+meniscus
+mf
+midpoint
+migrate
+migration
+milling
+microporosity
+microresistivity
+microlog
+microemulsion
+microgel
+microlaterolog
+microannulus
+micelle
+mandrel
+mast
+magnetometer
+manifold
+mpi
+magnetics
+mwp
+md
+mudcake
+mwd
+mme
+mmc
+mms
+miscible
+mousehole
+multiphase
+moveout
+multilateral
+mud
+mmh
+mt
+mmscf
+mist
+missile
+minifrac
+modeling
+mse
+motorman
+mpd
+mpy
+msds
+montmorillonite
+monopole
+monomer
+monkeyboard
+modulus
+mill
+nrm
+normality
+npdes
+nmo
+nace
+nmr
+neutralization
+nipple
+neutralize
+ngl
+octanol
+offset
+ospar
+obc
+obr
+overshot
+overtravel
+resistance
+owr
+ooc
+openhole
+oglv
+pga
+pgv
+organophilic
+overbalance
+oligomer
+osmosis
+overflush
+osha
+operator
+observer
+ocma
+pitting
+permittivity
+paraformaldehyde
+parcom
+paraffin
+pag
+parametric
+pao
+packer
+packoff
+pac
+pad
+partitioning
+permeameter
+perforation
+permeability
+peptize
+pef
+perforate
+payout
+pascal
+patch
+pdm
+peptization
+polarity
+profile
+profiling
+production
+processing
+probe
+pumpability
+pumpoff
+pumper
+pushdown
+pusher
+pv
+pseudoplastic
+psp
+pvt
+pyrolysis
+proppant
+porosimeter
+pooling
+polyphosphates
+polyol
+polyolefin
+polyacrylamide
+polysaccharide
+polyglycerol
+polyalphaolefin
+pooh
+prehydration
+polyacrylate
+polymer
+polyelectrolyte
+pressure
+preservative
+pozzolanic
+ppa
+ppt
+ppg
+preflush
+prehydrate
+ppm
+pozzolan
+ppb
+precipitate
+precipitation
+precision
+pi
+phpa
+pickup
+pick
+pickle
+pigging
+pig
+pill
+phenolphthalein
+pin
+pf
+pipeline
+phase
+ph
+phantom
+playback
+plt
+quat
+quitclaim
+quebracho
+quicklook
+roustabout
+royalty
+roughneck
+repeatability
+reflectivity
+refractor
+reflector
+refraction
+reel
+reflection
+redox
+reproducibility
+relinquishment
+rarefaction
+rop
+rcra
+receiver
+ream
+rcd
+rih
+recorder
+reciprocate
+rathole
+rm
+ros
+rabbit
+record
+raypath
+ray
+retarder
+resolution
+resistivity
+rh
+rheological
+retort
+rig
+rheology
+superposition
+surfactant
+stearate
+spacer
+sp
+swr
+surge
+suppression
+sor
+spectrum
+spectral
+sonolog
+snubbing
+sng
+snubbers
+soap
+snub
+sonde
+solubility
+sonic
+softline
+standpipe
+steamflood
+stb
+spotting
+spooler
+starch
+statics
+standoff
+steam
+stabilized
+spud
+ssp
+stabilization
+stab
+ssma
+srb
+scale
+sbr
+sapp
+scal
+screen
+scratcher
+scraper
+scc
+schedule
+scavenger
+shaker
+sip
+sandout
+sandface
+screenout
+seismometer
+semisubmersible
+screening
+sensitivity
+severance
+sagd
+seismology
+semblance
+seismogram
+seismograph
+scrub
+sealbore
+seismic
+styrene
+scrubber
+stroke
+stripping
+stuck
+sepiolite
+sedimentation
+sssv
+stimulation
+sscsv
+strap
+strainer
+sweetening
+swage
+swivel
+sideswipe
+sibp
+sidewall
+siderite
+sibhp
+sigma
+silicate
+sidetrack
+signal
+signature
+shearometer
+sheave
+shotpoint
+slurry
+tih
+thixotropy
+threadform
+throttling
+tie
+ti
+tg
+tannin
+tank
+tanker
+tankage
+tame
+tally
+taitel–dukler
+taps
+tail
+t2
+tcp
+tdem
+dem
+td
+teor
+tem
+trunnion
+twt
+telemetry
+trip
+turnkey
+treater
+tortuosity
+torpedo
+tracer
+toolface
+tomography
+titration
+titrate
+toolpusher
+tm
+tiv
+toc
+td
+traveltime
+tfnb
+thixotropic
+uncertainty
+upstroke
+unload
+underream
+upgrader
+upstream
+unitization
+undertravel
+undershooting
+vama
+vsp
+variogram
+vlcc
+velocity
+viscosity
+vibrator
+vis
+weevil
+wellbore
+weight
+wellhead
+wavelet
+wag
+wavenumber
+wavefront
+wor
+wormhole
+washout
+wavelength
+waterflooding
+waveform
+waterflood
+washover
+woc
+waterdrive
+wireline
+wildcat
+xylene
+xrf
+yoke
+acceleration
+accelerogram
+accelerograph
+aftershocks
+amplification
+amplitude
+arc
+aseismic
+asperity
+attenuation
+deformation
+dip
+directivity
+displacement
+frequency
+geodesy
+geodetic
+geology
+geomorphology
+geophysics
+geotechnical
+gravity
+halfspace
+hazard
+hertz
+hypocenter
+intensity
+interplate
+intraplate
+isoseismal
+kinematic
+lifelines
+magnitude
+mainshock
+mantle
+microzonation
+paleoseismicity
+quaternary
+radiometric
+reflection
+refraction
+residual
+secular
+segmentation
+seiche
+seismicity
+seismogenic
+seismogram
+seismograph
+seismology
+seismometer
+source
+spectrum
+station
+stochastic
+strain
+stress
+magnetostratigraphy
+teleseismic
+tsunamigenic
+velocity
+wavefront
+wavelength
+ybp
+adhesion
+alkalinity
+aquaculture
+condensation
+desalination
+evaporation
+evapotranspiration
+floodway
+giardiasis
+greywater
+hardness
+headwater
+infiltration
+irrigation
+kilogram
+kilowatthour
+kwh
+leaching
+mcl
+milligram
+mg
+navd
+ngvd
+osmosis
+outfall
+ph
+pathogen
+precipitation
+irrigation
+sinkhole
+solute
+solution
+solvent
+epicentral
+sprain
+transmissibility
+transpiration
+tributary
+watershed
+watthour
+xeriscaping
