@@ -1,0 +1,193 @@
+cambrian saint ge 2
+cambrian saint ge 3
+cambrian saint ge 4
+cambrian saint ge 5
+cambrian stage 2
+cambrian series 2
+cambrian stage 3
+cambrian stage 4
+cambrian series 3
+cambrian stage 5
+saint ge 10
+early miocene
+late pliocene
+stage 10
+lower ordovician
+middle ordovician
+upper ordovician
+lower devonian
+middle devonian
+upper devonian
+lower mississippian
+middle mississippian
+upper mississippian
+lower pennsylvanian
+middle pennsylvanian
+upper pennsylvanian
+lower triassic
+middle triassic
+upper triassic
+lower jurassic
+middle jurassic
+upper jurassic
+lower cretaceous
+upper cretaceous
+middle pleistocene
+upper pleistocene
+saint nian
+hadean
+archean
+proterozoic
+paleozoic
+mesozoic
+cenozoic
+precambrium
+phanerozoic
+archaean
+proterozoic
+precambrium
+hadean
+archean
+eoarchean
+paleoarchean
+mesoarchean
+neoarchean
+proterozoic
+paleoproterozoic
+siderian
+rhyacian
+orosirian
+satherian
+mesoproterozoic
+calymmian
+ectasian
+stenian
+neoproterozoic
+tonian
+cryogenian
+ediacaran
+phanerozoic
+paleozoic
+cambrian
+terreneuvian
+fortunian
+drumian
+guzhangian
+furongian
+paibian
+jingshanian
+ordovician
+tremadocian
+floian
+dapingian
+darriwilian
+sandbian
+katian
+hirnantian
+silurian
+llandovery
+rhuddanian
+aeronian
+telychian
+wenlock
+sheinwoodian
+homerian
+ludlow
+gorstian
+ludfordian
+pridoli
+devonian
+lochkovian
+pragian
+emsian
+eifelian
+givetian
+frasnian
+famennian
+carboniferous
+mississippian
+tournaisian
+visean
+serpukhovian
+pennsylvanian
+bashkirian
+moscovian
+kasimovian
+gzhelian
+permian
+cisuralian
+asselian
+sakmarian
+artinskian
+kungurian
+guadalupian
+roadian
+wordian
+capitanian
+lopingian
+wuchiapingian
+changhsingian
+mesozoic
+triassic
+induan
+olenekian
+anisian
+ladinian
+carnian
+norian
+rhaetian
+jurassic
+hettangian
+sinemurian
+pliensbachian
+toarcian
+alenian
+bajocian
+bathonian
+callovian
+oxfordian
+kimmeridgian
+tithonian
+cretaceous
+berriasian
+valanginian
+hauterivian
+barremian
+aptian
+albian
+cenomanian
+turonian
+coniacian
+santonian
+campanian
+maastrichtian
+cenozoic
+paleogene
+paleocene
+danian
+selandian
+thanetian
+eocene
+ypresian
+lutetian
+bartonian
+priabonian
+oligocene
+rupelian
+chattian
+neogene
+miocene
+aquitanian
+burdigalian
+langhian
+serravallian
+tortonian
+messinian
+pliocene
+zanclean
+piacenzian
+quaternary
+pleistocene
+gelasian
+calabrian
+holocene
