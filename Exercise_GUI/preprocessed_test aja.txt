@@ -1,0 +1,100 @@
+the earth was evolved from the condensation of interstellar gas at 4 . 56 ga . initially , magma ocean was formed on the surface of the earth due to very high temperatures .
+continental crust was evolved from the mantle by differentiation and continuous distillation like processes .
+crust is the outermost layer of the earth .
+its silica - rich rocks are separated from the olivine - rich of the mantle by the mohorovicic discontinuity , the moho , which is a compositional boundary .
+even though compositionally crust and upper mantle are different , the uppermost part of mantle exhibits similar rheological , thermal and many other properties with those of crust .
+thus , the crust and a part of sub - continental upper mantle together is referred as the lithosphere .
+lithosphere is a cool , rigid and brittle layer that transfers heat by conduction process .
+the layer beneath the lithosphere is weak , warmer and transfers heat by convection process .
+it is referred as the asthenosphere .
+the lithosphere - asthenosphere boundary is a thermal boundary that separates distinctly different physical , chemical , rheological , viscus and many other properties .
+it decouples the lithosphere from the asthenosphere .
+thereby , lithosphere , the outermost rigid layer moves coherently over the weaker asthenosphere , which is the fundamental principle of the plate tectonic hypothesis .
+study of the lithosphere is a first - order importance in understanding the plate tectonics and geodynamic evolution of the earth .
+cratons are the earliest formed precambrian continental material , which form the nuclei for the subsequent additions surrounding it .
+cratons consists of thick lithospheric roots called as mantle keels or lid .
+cratons are stable , rigid , buoyant , non - convective , highly viscus and exhibit cold geotherms of the order of 35 - 40 mwm 2 .
+generally , sub - continental lithospheric mantle retains its ancient characteristics beneath many cratons .
+the lithospheric thickness varies from few tens of kilometers to more than 250 km beneath rift zones and archean cratons respectively .
+temperature and composition are important factors in determining lithospheric thickness .
+geothermal gradients are indeed variable and reflect a range of tectonic processes .
+tectono - thermal age provides a good indication of overall properties of the lithosphere .
+variation of lithospheric thickness beneath continents , oceans and mid - oceanic ridges is shown schematically in figure .
+variation of lithospheric thickness with age and associated temperatures is shown in figure .
+developments in the incisive tools like , active and passive seismology , global position system geodesy , geodynamics , geochemistry , xenoliths , magnetotellurics and mineral physics to probe the earth ' s interior from the crust to core , coupled with enhanced computational power has improved our understanding of the earth as a dynamic system .
+a wide variety of these disciplines are used to understand the lithosphere .
+the conventional view is that a craton is forever .
+it is believed that cratons are most stable due to cold and chemically depleted lithosphere .
+the mantle lithosphere exhibits high viscosity because of its low temperature , which prevents deformation and preserves the cratonic root .
+the low temperatures are expressed by fast shear wave velocities .
+this conventional view of the lithosphere is being changed with new data from different parts of the globe .
+thick mantle keels are retained in some cratons , whereas extensive destruction , decratonization or modification of lithospheric keels are observed in several other cratons due to mantle upwelling and magmatism triggered by subduction or plume related processes .
+evidence for destruction of continents came from geochemical studies of some oceanic island basalts , which exhibited pods of recycled ancient continental mantle in the convecting mantle .
+recent advances in magma geochemistry and re - os isotope composition of mantle xenoliths provided direct evidence for destruction of continents .
+the north china craton is a classical example of tectonic erosion and reworking of mantle keel during the paleoproterozoic and phanerozoic periods .
+the wyoming craton of canada , part of kaapval craton , western margin of tanzania , north atlantic craton are few other examples which are partially reworked .
+reworking lithospheric keel processes leave some mark on the structure , composition and properties of the crust , which are used to understand the lithospheric modification in the present study .
+the indian shield is an amalgamation of several archean cratons that are separated from each other by rifts or fold belts .
+among the archean terrains of india , the southern india plays an important role because of its dimensions , preserved geological history , greenstone belts etc .
+southern india is a mosaic of many precambrian crustal blocks dissected by numerous shear zones .
+it includes mesoarchean western dharwar craton and neoarchean eastern dharwar craton and neoarchean - neoproterozoic southern granulite terrain .
+southern india forms one of the oldest archean granite - greenstone terrains of the world , like the superior , the yilgaran , karelian and the kaapval cratons .
+further , it is also one of the largest high - grade metamorphic regions of the globe with neoarchean to late neoproterozoic geological history .
+the present study integrates lithospheric structure derived from active and passive source seismic data and complimented by other geophysical and geological data of the southern india .
+it provides important details to understand the lithospheric structure and tectonic evolution of the region .
+further , we consider the physical properties of the lower crust and the moho to understand the genetic relationship between the crust and the underlying lithospheric mantle .
+we infer how the properties of the moho relate in some fundamental way to the changes in lithospheric evolution since archean time .
+2 geotectonic framework the detailed geology of the dharwar craton is adequately described in a number of recent publications .
+the mesoarchean dharwar craton with 3 . 6 ga geological history is the earliest cratonic nucleus of the southern india that can provide geodynamic evolution of the lithosphere of the early earth .
+major part of the craton consists of archean rocks formed between 3 . 6 and 2 . 5 ga .
+it consists of several greenstone belts , tonalite - trondhjemite - granodiorite gneisses , and k - rich granites indicating typical granite - greenstone terrains of archean period .
+the northern part of dharwar craton consists of proterozoic kaladgi and bhima basins and further north widespread late cretaceous - early tertiary deccan volcanics .
+the dharwar craton is divided into the wdc and edc based on lithology , degree of metamorphism , magmatism , types of greenstone belts and ages of rocks .
+the wdc is composed of sargur , bababudan , dharwar and chitradurga greenstone belts and 3 . 3 ga komatiitic volcanism .
+it also witnessed widespread 2 . 37 - 2 . 2 ga mafic magmatic activity in the form of mafic dykes .
+it is believed that the greenstone belts of wdc are evolved as marginal basins .
+recent studies suggest that the wdc is accreted with exotic mesoarchean coorg granulite massif in the sw and the karwar block in the nw margins during neoarchean or late mesoproterozoic .
+the period of accretion of these crustal blocks is not well constrained .
+the edc in general exhibits neoarchean geological history .
+it is made up of several long nw to n - s to sw trending neoarchean linear granite - greenstone belts , 2 . 37 - 1 . 8 ga widespread mafic dykes , proterozoic cuddapah basin , eastern ghats granulite belt , 1 . 1 ga kimberlite fields , 550 ma east - african orogenic activity .
+among the various granites 350 km long and 60 km wide n - s trending closepet granite is the important one .
+some people consider it as the suture boundary between the wdc and edc , whereas others suggest the chitradurga eastern boundary shear zone is the boundary .
+the wdc and edc are sutured together by subduction - accretion processes , indicating operation of plate tectonic during the neoarchean .
+the grade of metamorphism of the dharwar craton gradually increases from greenschist to amphibolite facies , then finally into granulite facies in the n - s direction .
+both wdc and edc blocks are brought in contact with sgt in the south along the moyar - bhavani shear zone .
+earlier , the sgt located to the south of the dharwar craton was considered as a lower crustal part of the craton .
+it is believed that the general tilting of the craton to the north has exposed the lower crustal granulites .
+but the recent geological , geochronological and geophysical studies have identified the sgt as a collage of neoarchean – late neoproterozoic terranes of different geological history , which successively amalgamated due to collisional activities .
+the sgt consists of several granulite massifs surrounded by shear zones .
+it is divided into late neoarchean and late neoproterozoic granulite belts from north to south .
+they were accreted at the karur - kambam - painavu - trichur shear zone .
+alkaline rocks , mafic dykes , granites and anorthosites of different periods from archean to phanerozoic period are emplaced at several places .
+tectonic framework of southern india is presented in table .
+3 mechanisms for craton modification and destruction lithosphere is relatively a cool , subsolidus layer that can only transfer heat by conduction and act as a mechanical barrier to convectively upwelling asthenosphere .
+the lab occurs at mantle temperature of 1300 c .
+lithosphere beneath the cratonic areas is generally thick and refractory .
+it reflects an original depletion in basaltic components , traditionally , it is believed that cratons are stable parts of the continent and when plume impinges on the base of lithospheric , it will be deflected away to areas of thinner lithosphere at the margins , thereby preventing erosion of the craton from below .
+however , studies for the past two decades from different parts of the world suggest significant modification of the cratonic lithosphere .
+depleted cratonic sclm of any thickness is buoyant relative to the convecting asthenosphere and cannot be removed by gravitational forces .
+however , when the base of the depleted sclm is exposed to ascending magmas , it becomes metasomatized due refertilization process .
+it increases the density of the peridotitic sclm , and leads to accumulation of eclogites .
+any mechanism that reduces the viscosity of the lithosphere removes the keel and destroys its mantle .
+several mechanisms are suggested for the erosion of lithospheric keel .
+3 . 1 convective removal removal of lithospheric root by density - driven buoyancy forces is referred as convective removal .
+the lab separates the high viscosity conductive lithosphere from low - viscosity convective asthenosphere .
+when a plume is rising , some amount of heat transported by secondary small - scale convection in the asthenosphere warms the material at the lab conductively .
+this material consequently becomes soft enough to creep , but being denser than the underlying soft asthenosphere , it will delaminate into mantle below , thereby effectively removes the lithospheric root and shallows the asthenosphere ( figure .
+both vertical and lateral temperature contrasts can generate small - scale convective instabilities , thereby promote lithospheric erosion from below .
+3 . 2 thermomagmatic erosion thermomagmatic erosion , a variant of convective removal , is another mechanism of destabilizing sclm by reenrichment events with fluids released by the mantle plume from below .
+the metasomatic events increase temperature , fe and water content .
+this rehydration process softens the rheology by changing the intrinsic chemical properties of the medium .
+the altered mineralogical assemblages will melt at lower temperature in subsequent events .
+this metasomatic process leads to compositional densification and decrease in viscosity .
+continuation of such mineralogical modification process by impregnation of magma at a few locations weakens the lower part of the lithosphere ( figure .
+it results in a strong local density difference along the base of the lithosphere that have a destabilizing effect and promotes erosion of the mantle lithosphere .
+this initiates small - scale convection where differences in the thickness of the lithosphere prevails .
+finally , the altered lithospheric mantle zones delaminate and sink into the asthenosphere , which amounts to asthenospherization of parts of the lowermost lithosphere ( figure .
+thus , these magmatic episodes cause the upward migration of lower lithospheric limit .
+this thermomagmatic erosion process suggests a sudden changes in lithospheric thickness are more likely than a gradual overall thinning .
+3 . 3 rheological weakening another mechanism for erosion of continental lithosphere is weakening of its rheology , which facilitates convective removal .
+infiltration of hydrous melts or supercritical fluids released from a subduction zone weaken continental slab above it by rehydration .
